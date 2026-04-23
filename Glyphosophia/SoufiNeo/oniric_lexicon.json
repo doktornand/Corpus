@@ -1,0 +1,41 @@
+{
+  "Adjectif": [
+    "lumineux", "brisé", "sacré", "noyé", "encodé",
+    "fractal", "quantique", "hanté", "neural", "crypté",
+    "désert", "lunaire", "vide", "statique", "transcendant"
+  ],
+  "Nom": [
+    "signal", "rêve", "cœur", "code", "prophète",
+    "flux", "données", "ombre", "silence", "mirage",
+    "ghost", "souffle", "réseau", "voix", "écho"
+  ],
+  "Action": [
+    "consume", "efface", "réveille", "encrypte", "transmute",
+    "brûle", "souffle", "déchiffre", "purifie", "dérive"
+  ],
+  "Bénéfice": [
+    "la clarté", "le silence", "l'oubli", "la vérité brûlante",
+    "l'éveil", "la paix des bits", "l'unité", "le néant sacré"
+  ],
+  "Défaut": [
+    "le bruit", "la trahison", "le compromis", "l'oubli numérique",
+    "la panne", "le mensonge", "le vide sans grâce"
+  ],
+  "Paysage": [
+    "désert du no-signal", "marché noir de Lagos", "nuage quantique",
+    "cimetière de data", "souk neural", "mosquée cryptée",
+    "océan d'erreurs", "rue des Ghost Runners", "orbite basse des rêves"
+  ],
+  "VerbeMystique": [
+    "consume", "efface", "encrypte", "réveille", "transmute",
+    "dissout", "illumine", "recodifie", "absout"
+  ],
+  "Symbole": [
+    "lune brisée", "serpent de fibre", "cœur en silicium",
+    "miroir fractal", "étoile noire", "anneau de données",
+    "sceau de Sanaa", "colombe bionique", "masque de vide"
+  ],
+  "oniric_tags": [
+    "<burn>", "<rain>", "<shadow>", "<static>", "<void>"
+  ]
+}
