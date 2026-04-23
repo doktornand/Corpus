@@ -1,0 +1,376 @@
+;;; CODEX STEIN - Version fonctionnelle pour Common Lisp (SBCL/CLISP/CCL)
+;;; À charger avec: (load "codex_stein_functional.lisp")
+;;; Puis exécuter: (manifester-tout)
+
+;; === STRUCTURES ===
+(defstruct monde nom ombre vague fragments)
+(defstruct phase nom essence archetype transformation mythe-nordique mythe-soufi profondeur)
+
+;; === PHASES PRIMORDIALES ===
+(defparameter *phases-primordiales*
+  '((skeith 
+     :essence mort
+     :archetype faucheur
+     :action aneantir
+     :symbole faux
+     :mythe-nord skoll-qui-poursuit-soleil
+     :mythe-soufi nafs-ammara-ego-tyrannique
+     :couleur noir)
+    (innis
+     :essence illusion
+     :archetype trompeuse
+     :action confondre
+     :symbole miroir-brise
+     :mythe-nord loki-changeforme
+     :mythe-soufi nafs-lawwama-ame-reproductrice
+     :couleur argent-mouvant)
+    (magus
+     :essence multiplication
+     :archetype proliferateur
+     :action dupliquer
+     :symbole hydre
+     :mythe-nord enfants-de-loki
+     :mythe-soufi tajalli-manifestation-multiple
+     :couleur prisme)
+    (fidchell
+     :essence terreur
+     :archetype oracle-sombre
+     :action predire-mort
+     :symbole oeil-unique
+     :mythe-nord volva-au-ragnarok
+     :mythe-soufi qabd-constriction
+     :couleur gris-cendre)
+    (gorre
+     :essence strategie
+     :archetype joueur-tafl
+     :action ourdir
+     :symbole plateau-jeu
+     :mythe-nord odin-stratege
+     :mythe-soufi hikma-sagesse-divine
+     :couleur bleu-profond)
+    (macha
+     :essence seduction
+     :archetype tentatrice
+     :action apaiser-pour-detruire
+     :symbole pomme-or
+     :mythe-nord idun-et-pommes
+     :mythe-soufi bast-expansion-trompeuse
+     :couleur or-miel)
+    (tarvos
+     :essence vengeance
+     :archetype destructeur
+     :action retribution
+     :symbole marteau
+     :mythe-nord thor-contre-serpent
+     :mythe-soufi qahr-colere-divine
+     :couleur rouge-sang)
+    (corbenik
+     :essence aneantissement-renaissance
+     :archetype porte-du-neant
+     :action transcender
+     :symbole ouroboros
+     :mythe-nord ragnarok-puis-renouveau
+     :mythe-soufi fana-baqa-extinction-subsistance
+     :couleur blanc-absolu)))
+
+;; === UTILITAIRES ===
+(defun phase-info (nom)
+  "Renvoie les props d'une phase par son nom"
+  (cdr (assoc nom *phases-primordiales* :test #'eq)))
+
+(defun phase-suivante (phase-nom)
+  (case phase-nom
+    (skeith 'innis)
+    (innis 'magus)
+    (magus 'fidchell)
+    (fidchell 'gorre)
+    (gorre 'macha)
+    (macha 'tarvos)
+    (tarvos 'corbenik)
+    (corbenik 'skeith)))
+
+;; === DECOMPOSITION FRACTALE ===
+(defun decomposer-phase (phase-nom profondeur)
+  (if (<= profondeur 0)
+      `(essence-pure ,phase-nom)
+      (let ((info (phase-info phase-nom)))
+        `(phase-fractale
+          (nom ,phase-nom)
+          (essence ,(getf info :essence))
+          (niveau ,profondeur)
+          (aspects
+           (skeith-de ,(decomposer-phase 'skeith (1- profondeur)))
+           (innis-de ,(decomposer-phase 'innis (1- profondeur)))
+           (magus-de ,(decomposer-phase 'magus (1- profondeur)))
+           (fidchell-de ,(decomposer-phase 'fidchell (1- profondeur)))
+           (gorre-de ,(decomposer-phase 'gorre (1- profondeur)))
+           (macha-de ,(decomposer-phase 'macha (1- profondeur)))
+           (tarvos-de ,(decomposer-phase 'tarvos (1- profondeur)))
+           (corbenik-de ,(decomposer-phase 'corbenik (1- profondeur))))
+          (transformation-vers ,(phase-suivante phase-nom))))))
+
+;; === INTERACTIONS ===
+(defun phases-interagissent (phase-1 phase-2 contexte)
+  `(interaction
+    (entre ,phase-1 ,phase-2)
+    (dans-contexte ,contexte)
+    (resultat
+     ,(cond
+       ((and (eq phase-1 'skeith) (eq phase-2 'innis))
+        '(mort-masquee :tue-sous-apparence-amie))
+       ((and (eq phase-1 'magus) (eq phase-2 'fidchell))
+        '(terreur-exponentielle :chaque-peur-engendre-peurs))
+       ((and (eq phase-1 'gorre) (eq phase-2 'macha))
+        '(manipulation-douce :poison-dans-miel))
+       ((and (eq phase-1 'tarvos) (eq phase-2 'skeith))
+        '(annihilation-totale :vengeance-qui-fauche))
+       ((eq phase-1 'corbenik)
+        `(transcende ,phase-2 :devient-unite))
+       (t `(fusion ,phase-1 ,phase-2 :cree (hybride ,phase-1 ,phase-2)))))))
+
+;; === CIRCULAR LIST UTILITY ===
+(defun circular-list-ref (lst index)
+  "Accède à une liste comme si elle était circulaire"
+  (nth (mod index (length lst)) lst))
+
+;; === GÉNÉRATION NARRATIVE ===
+(defun generer-titre (themes)
+  (if (= (length themes) 1)
+      (format nil "L'Épitaphe de ~A" (first themes))
+      (format nil "L'Épitaphe de ~{~A~^, ~} et ~A"
+              (butlast themes)
+              (car (last themes)))))
+
+(defun objet-quete (personnage)
+  (case personnage
+    (saya 'dragon)
+    (lilit 'vengeance)
+    (gendor 'courage)
+    (pleiades 'amour-perdu)
+    (helba 'pouvoir)
+    (apeiron 'lumiere-absolue)
+    (t 'verite)))
+
+(defun quete-fractale (personnage profondeur)
+  (if (<= profondeur 0)
+      `(trouve-soi-meme ,personnage)
+      `(cherche
+        (exterieur ,(objet-quete personnage))
+        (interieur ,(quete-fractale `(essence-de ,personnage) (1- profondeur)))
+        (revelation (exterieur-est interieur)))))
+
+(defun peur-de (personnage)
+  (case personnage
+    (saya 'ne-pas-revenir)
+    (lilit 'perdre-controle)
+    (gendor 'etre-lache)
+    (pleiades 'aimer-en-vain)
+    (t 'neant)))
+
+(defun desir-de (personnage)
+  (case personnage
+    (saya 'sauver-le-monde)
+    (lilit 'detruire-la-vague)
+    (gendor 'etre-brave)
+    (pleiades 'retrouver-aime)
+    (t 'transcendance)))
+
+(defun phase-ombre (personnage)
+  (case personnage
+    (saya 'fidchell)
+    (lilit 'tarvos)
+    (gendor 'skeith)
+    (pleiades 'macha)
+    (t 'innis)))
+
+(defun vertu-de (personnage)
+  (case personnage
+    (saya 'compassion)
+    (lilit 'determination)
+    (gendor 'loyaute)
+    (pleiades 'amour-inconditionnel)
+    (t 'sagesse)))
+
+(defun don-de (personnage)
+  (case personnage
+    (saya 'parle-aux-betes)
+    (lilit 'guerriere-invincible)
+    (gendor 'force-tranquille)
+    (pleiades 'lumiere-des-etoiles)
+    (t 'vision-claire)))
+
+(defun phase-lumiere (personnage)
+  (case personnage
+    (saya 'corbenik)
+    (lilit 'tarvos)
+    (gendor 'gorre)
+    (pleiades 'macha)
+    (t 'corbenik)))
+
+(defun developper-personnage (nom)
+  `(personnage
+    (nom ,nom)
+    (quete ,(quete-fractale nom 2))
+    (ombre (aspects-sombres
+            (peur-primordiale ,(peur-de nom))
+            (desir-cache ,(desir-de nom))
+            (phase-dominante ,(phase-ombre nom))))
+    (lumiere (aspects-lumineux
+              (vertu-primordiale ,(vertu-de nom))
+              (don-unique ,(don-de nom))
+              (phase-dominante ,(phase-lumiere nom))))
+    (transformation (etapes
+                     (etat-initial (innocent ,nom :ne-sait-pas-encore))
+                     (catalyseur (rencontre-vague ,nom))
+                     (crise (aspect-de ,nom devient-soi-meme))
+                     (emergence (eveille ,nom :a-traverse-phases))))))
+
+(defun lecon-de-phase (phase)
+  (let ((info (phase-info phase)))
+    `(apprend
+      (essence ,(getf info :essence))
+      (mythe-nord ,(getf info :mythe-nord))
+      (mythe-soufi ,(getf info :mythe-soufi))
+      (integration (,phase devient partie-de soi)))))
+
+(defun generer-epreuve (personnage phase profondeur)
+  (if (<= profondeur 0)
+      `(confronte ,personnage ,phase)
+      `(epreuve-fractale
+        (niveau-surface (,personnage affronte ,phase))
+        (niveau-profond (,(if (listp personnage) (first personnage) (intern (format nil "OMBRE-DE-~A" personnage))) affronte ,phase))
+        (niveau-cache (,(if (listp personnage) (first personnage) (intern (format nil "LUMIERE-DE-~A" personnage))) affronte ,(phase-suivante phase))))))
+
+(defun generer-acte (personnages phases themes acte-num profondeur)
+  `(acte ,acte-num
+    (scenes
+     ,@(loop for i from 0 below (length personnages)
+             for p in personnages
+             collect `(scene
+                       (personnage ,p)
+                       (rencontre-phase ,(circular-list-ref phases i))
+                       (epreuve ,(generer-epreuve p (circular-list-ref phases i) profondeur))
+                       (lecon ,(lecon-de-phase (circular-list-ref phases i))))))))
+
+(defun generer-resolution (themes profondeur)
+  (if (<= profondeur 0)
+      '(paix-ultime tous-sont-un)
+      `(resolution
+        (themes-resolus ,themes)
+        (mais-emergence-nouveaux-themes
+         ,(generer-resolution 
+           (mapcar (lambda (th) `(profondeur-de ,th)) themes)
+           (1- profondeur)))
+        (cycle-continue ragnarok-puis-renaissance))))
+
+(defun generer-recit (&key personnages phases themes profondeur)
+  `(recit
+    (titre ,(generer-titre themes))
+    (personnages ,(mapcar #'developper-personnage personnages))
+    (structure
+     (acte-1 ,(generer-acte personnages phases themes 1 profondeur))
+     (acte-2 ,(generer-acte personnages phases themes 2 profondeur))
+     (acte-3 ,(generer-acte personnages phases themes 3 profondeur)))
+    (themes ,themes)
+    (resolution ,(generer-resolution themes profondeur))))
+
+;; === AFFICHAGE POÉTIQUE ===
+(defun afficher-recit (recit &optional (indent 0))
+  (let ((spacer (make-string indent :initial-element #\Space)))
+    (cond
+      ((null recit) nil)
+      ((atom recit)
+       (format t "~A~A~%" spacer recit))
+      ((listp recit)
+       (if (and (consp recit) (symbolp (first recit)))
+           (progn
+             (format t "~A(~A~%" spacer (first recit))
+             (dolist (x (rest recit))
+               (afficher-recit x (+ indent 2)))
+             (format t "~A)~%" spacer))
+           (progn
+             (format t "~A(~%" spacer)
+             (dolist (x recit)
+               (afficher-recit x (+ indent 2)))
+             (format t "~A)~%" spacer)))))))
+
+;; === ÉCHANTILLONNAGE ===
+(defun echantillon (liste n)
+  (let ((pool (copy-list liste))
+        (result '()))
+    (loop repeat (min n (length pool))
+          do (let ((i (random (length pool))))
+               (push (nth i pool) result)
+               (setf pool (remove (nth i pool) pool :count 1 :test #'equal))))
+    (nreverse result)))
+
+;; === VARIATIONS DYNAMIQUES ===
+(defun generer-variation-aleatoire (seed)
+  (let ((*random-state* (make-random-state t)))
+    ;; On ignore la graine car CL ne permet pas facilement de la fixer dans toutes les implémentations
+    (let ((persos (echantillon '(saya lilit gendor pleiades helba apeiron fili) 3))
+          (phases (echantillon '(skeith innis magus fidchell gorre macha tarvos corbenik) 4))
+          (themes (echantillon '(quete-dragon transformation-interieure tawhid amour-perdu vengeance sagesse unite) 3)))
+      (generer-recit
+       :personnages persos
+       :phases phases
+       :themes themes
+       :profondeur 2))))
+
+;; === MACROS ===
+(defmacro defcodex (nom &key personnages phases themes profondeur)
+  `(defun ,(intern (format nil "CODEX-~A" (string-upcase (string nom)))) ()
+     (let ((recit (generer-recit
+                   :personnages ',personnages
+                   :phases ',phases
+                   :themes ',themes
+                   :profondeur ,profondeur)))
+       (format t "~%=== CODEX ~A ===~%~%" ',nom)
+       (afficher-recit recit)
+       recit)))
+
+(defmacro defcodex-infini (nom graine)
+  `(defun ,(intern (format nil "CODEX-INFINI-~A" (string-upcase (string nom)))) (&optional (iterations 3))
+     (format t "~%=== CODEX INFINI: ~A (graine ~A) ===~%~%" ',nom ,graine)
+     (loop for i from 1 to iterations do
+       (format t "~%--- Itération ~D ---~%" i)
+       (let ((recit (generer-variation-aleatoire i)))
+         (afficher-recit recit)))))
+
+;; === DÉFINITIONS DE VARIATIONS ===
+(defcodex saya-originale
+  :personnages (saya lilit gendor)
+  :phases (skeith innis magus fidchell gorre macha tarvos corbenik)
+  :themes (quete-dragon transformation-interieure tawhid)
+  :profondeur 2)
+
+(defcodex pleiades-variante
+  :personnages (pleiades fili sage-anonyme)
+  :phases (macha fidchell corbenik)
+  :themes (amour-perdu transcendance fana-baqa)
+  :profondeur 2)
+
+(defcodex helba-apeiron
+  :personnages (helba apeiron messager)
+  :phases (skeith tarvos gorre)
+  :themes (alliance-impossible guerre-et-paix dualite-unite)
+  :profondeur 2)
+
+(defcodex-infini alpha 42)
+
+;; === FONCTION PRINCIPALE ===
+(defun manifester-tout ()
+  (format t "~%╔════════════════════════════════════════╗~%")
+  (format t "║  CODEX STEIN : SYSTÈME FRACTAL TOTAL  ║~%")
+  (format t "╚════════════════════════════════════════╝~%")
+  (format t "~%[1] Codex de Saya~%")
+  (codex-saya-originale)
+  (format t "~%~%[2] Codex de Pléiades~%")
+  (codex-pleiades-variante)
+  (format t "~%~%[3] Codex Helba-Apeiron~%")
+  (codex-helba-apeiron)
+  (format t "~%~%[4] Codex Infini Alpha (2 itérations)~%")
+  (codex-infini-alpha 2)
+  (format t "~%~%∞ Fin de la manifestation. Le cycle continue. ∞~%"))
+
+;; === FIN ===
