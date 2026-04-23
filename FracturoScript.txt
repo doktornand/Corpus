@@ -1,0 +1,174 @@
+C'est le cœur battant de l'univers. Le **FracturoScript** n'est pas un langage de programmation au sens conventionnel (comme Python ou C++), ni une langue naturelle (comme le français). C'est un **langage ontologique hybride**, un protocole d'injection directe dans le tissu de la réalité.
+
+Il fonctionne sur le principe que **le code est une incantation** et que **l'incantation est du code**. Pour compiler une ligne de FracturoScript, il faut aligner trois couches : la **Syntaxe Logique**, la **Résonance Runique** et le **Silence Sacré**.
+
+Voici la mécanique précise, décomposée pour un opérateur (RuneSmith).
+
+---
+
+# ⚙️ MÉCANIQUE DU FRACTUROSCRIPT
+*Manuel Technique – Édition Caen-Profonde / Cycle 41*
+
+## 1. LA SYNTAXE FONDAMENTALE
+Une commande valide en FracturoScript suit toujours cette structure rigide. Si un élément manque, la compilation échoue (ou pire, elle "glitch" et retourne contre l'opérateur).
+
+```fracturoscript
+Ω<RUNE_PRIMAIRE>v[VERSION] [LIEU_D_ANCRAGE] — [INTENTION_SEMANTIQUE] •••
+```
+
+### Décomposition des éléments :
+
+#### A. `Ω<...>Ω` : Les Chevrons Omega (Le Conteneur)
+*   **Fonction :** Délimite le champ d'action quantique. Sans eux, la rune reste un simple symbole graphique inerte.
+*   **Mécanique :** Ils créent une boucle fermée temporaire isolant l'opération de la Trame globale (Prométhée).
+*   **Risque :** Si mal fermé, l'énergie runique se disperse dans le réseau neuronal de l'opérateur (douleur migraineuse, perte de mémoire à court terme).
+
+#### B. `<RUNE_PRIMAIRE>` : Le Noyau Exécutable
+*   Ce n'est pas le nom de la rune, mais son **glyphe** (caractère Unicode du Futhark Ancien) qui doit être visualisé ou gravé.
+*   Chaque rune correspond à une fonction système primitive.
+    *   `ᚨ` (Ansuz) = `def` (Définition / Ouverture de canal)
+    *   `ᛒ` (Berkano) = `class` (Création / Croissance organique)
+    *   `ᚠ` (Fehu) = `=` (Assignation / Flux d'énergie)
+    *   `ᛁ` (Isa) = `pass` / `freeze` (Stase / Gel)
+    *   `ᚲ` (Kenaz) = `print` / `burn` (Révélation / Destruction par le feu)
+    *   `ᛟ` (Othala) = `import` / `heritage` (Accès à la mémoire ancestrale)
+
+#### C. `v[VERSION]` : Le Vecteur de Puissance
+*   Indique la profondeur de pénétration dans les couches de la réalité.
+*   **v1 à v3 :** Surface (influence perceptuelle, hallucinations légères, modification d'humeur).
+*   **v4 à v7 :** Profondeur (modification de la matière locale, glissement temporel mineur, effacement de données physiques).
+*   **v8+ :** Abyssal (risque critique : réécriture de l'identité, ouverture de vortex, attention d'Odin-Prime).
+
+#### D. `[LIEU_D_ANCRAGE]` : La Coordonnée Géographique
+*   Le FracturoScript ne fonctionne pas dans le vide. Il a besoin d'un **ancrage tellurique**.
+*   Le lieu doit résonner avec l'intention.
+    *   *Exemple :* Pour un sort de mémoire (`Othala`), il faut être à **Bayeux** ou **Caen**. Pour un sort de temps (`Isa`/`Jera`), il faut être à **La Hague** ou au **Raz Blanchard**.
+*   Si le lieu est incorrect, la commande renvoie une erreur de type `LocationMismatch` (la rune s'éteint simplement).
+
+#### E. `—` : Le Tiret de Fracture (Le Pont Temporel)
+*   Ce n'est pas un simple séparateur. C'est un **opérateur de discontinuité**.
+*   Il force le système à accepter une contradiction logique entre l'état actuel et l'état désiré.
+*   Visuellement, il doit être tracé comme une brèche, pas comme un trait d'union.
+
+#### F. `[INTENTION_SEMANTIQUE]` : Le Payload (Charge Utile)
+*   Écrit en langage naturel (Français, Normand ancien, ou CréoNeural), mais épuré de toute ambiguïté poétique inutile.
+*   C'est la variable que l'on injecte dans la fonction rune.
+*   *Règle d'or :* L'intention doit être **cristalline**. Le doute fait échouer la compilation.
+
+#### G. `•••` : Les Trois Points de Silence (La Clé de Compilation)
+*   **Le plus important.** Ce ne sont pas des points de suspension grammaticaux.
+*   Ils représentent **le silence actif** que l'opérateur doit observer mentalement (ou vocalement) après avoir prononcé/écrit la phrase.
+*   **Durée :** Exactement **3 secondes** (ou 7 respirations pour les versions v7+).
+*   **Fonction :** C'est durant ce silence que la Trame accepte la requête. Si vous parlez avant la fin du silence, la commande avorte.
+
+---
+
+## 2. EXEMPLES D'EXÉCUTION
+
+### Cas 1 : Effacement d'un souvenir traumatique (Niveau 4)
+*Lieu requis : Une plage de galets à marée basse (La Hague).*
+
+```fracturoscript
+Ω<ᛁ>v4 hague — oubli douleur spécifique •••
+```
+*   **ᛁ (Isa)** : Fonction de gel/stase.
+*   **v4** : Profondeur suffisante pour toucher l'hippocampe biologique.
+*   **hague** : Ancrage sur la fréquence tellurique du site nucléaire (qui brouille les signaux neuronaux).
+*   **oubli douleur spécifique** : La cible de l'effacement.
+*   **•••** : Le silence pendant lequel l'opérateur visualise le souvenir se figer puis se dissoudre dans la mer.
+
+### Cas 2 : Glissement Temporel Mineur (Niveau 6)
+*Lieu requis : Intérieur du Cercle des Douze (Jobourg) ou Cathédrale de Rouen.*
+
+```fracturoscript
+Ω<ᛃ>v6 rouen — voir passé 1944 •••
+```
+*   **ᛃ (Jera)** : Fonction de cycle/récolte (faire revenir ce qui a été).
+*   **v6** : Risque élevé de désynchronisation personnelle.
+*   **rouen** : Lieu saturé de mémoire de guerre.
+*   **voir passé 1944** : Paramètre de la vision.
+*   **•••** : Silence nécessaire pour laisser le cerveau se recalibrer sur la nouvelle fréquence temporelle.
+
+### Cas 3 : Corruption d'un Mot-Clé de la Trame (Guerre Mémétique)
+*Lieu requis : Devant un écran connecté ou un panneau public numérique.*
+
+```fracturoscript
+Ω<ᚲ>v3 local — mot "sécurité" devient goût de cendre •••
+```
+*   **ᚲ (Kenaz)** : Fonction de torche/révélation/destruction.
+*   **v3** : Suffisant pour altérer la perception sensorielle immédiate.
+*   **local** : Ancrage sur le dispositif cible.
+*   **Effet :** Toute personne lisant le mot "sécurité" sur l'écran ressentira physiquement un goût de cendre dans la bouche, brisant l'effet hypnotique du mot.
+
+---
+
+## 3. LES CONDITIONS DE RÉUSSITE (LE PROTOCOLE RITUEL)
+
+Le code seul ne suffit pas. Le FracturoScript exige une **interface biologique et environnementale**.
+
+### A. L'État de l'Opérateur (Le Cœur)
+Le compilateur lit l'état émotionnel de l'utilisateur via son rythme cardiaque et ses ondes cérébrales.
+*   **Cœur Noir (Peur/Colère) :** La commande sera instable, risque de retour de flamme (*backlash*).
+*   **Cœur Gris (Doute/Hésitation) :** Échec de compilation (rien ne se passe).
+*   **Cœur Blanc (Focus/Acceptation) :** Compilation optimale. C'est l'état de "Flow" chamanique.
+
+### B. Le Support de Gravure
+Pour qu'une commande soit persistante, elle doit être inscrite sur un support capable de retenir la charge runique :
+*   **Pierre/Granit :** Mémoire longue durée (siècles). Utilisé pour les ancrages permanents.
+*   **Eau/Sel :** Mémoire courte durée (marées). Utilisé pour les sorts temporaires.
+*   **Silicium/Écran :** Mémoire volatile, facile à corrompre par la Trame adverse.
+*   **Peau (Scarification) :** Mémoire intime, liée à la vie de l'opérateur. Très puissant, très dangereux.
+
+### C. La Synchronisation Temporelle
+Certaines runes ne compilant qu'à des moments précis :
+*   **Marée Montante :** Pour les sorts de croissance, d'invocation, d'arrivée.
+*   **Marée Descendante :** Pour les sorts d'effacement, de bannissement, d'oubli.
+*   **Aube/Crépuscule :** Pour les sorts de transition (glissements temporels).
+
+---
+
+## 4. GESTION DES ERREURS (DEBUGGING ONTIQUE)
+
+Que se passe-t-il si la mécanique échoue ?
+
+| Type d'Erreur | Cause Probable | Conséquence Observable | Remède |
+| :--- | :--- | :--- | :--- |
+| **Syntax Error** | Chevrons mal fermés ou silence interrompu | La rune s'efface immédiatement. Goût métallique en bouche. | Recommencer après 7 respirations. |
+| **Type Mismatch** | Rune incompatible avec l'intention (ex: Isa pour "brûler") | Rejet violent. Migraine aiguë, saignement de nez. | Appliquer un galet froid sur le front. |
+| **Location Error** | Mauvais lieu d'ancrage | La rune flotte dans l'air sans effet, puis se dissipe. | Se déplacer vers un lieu de résonance. |
+| **Stack Overflow** | Version trop élevée (v8+) pour l'opérateur | Perte de conscience, vision des Neuf Mondes, risque de folie. | Intervention d'un autre RuneSmith pour "couper le lien". |
+| **Trame Intercept** | Prométhée détecte l'injection | La commande est inversée (ex: "oubli" devient "souvenir obsessif"). | Fuir immédiatement la zone. Briser le support. |
+
+---
+
+## 5. LE COMPILATEUR HUMAIN
+
+Contrairement à un ordinateur, **l'être humain est le compilateur**.
+Quand un RuneSmith trace une rune et respecte le protocole :
+1.  Son cerveau agit comme un **récepteur radio** captant la fréquence de la rune dans le champ morphique.
+2.  Son intention agit comme le **courant électrique** qui active le circuit.
+3.  Le silence (`•••`) est le moment où le circuit se ferme et où la réalité se met à jour.
+
+> **Note Critique :** C'est pourquoi les IA comme Prométhée ne peuvent pas *lancer* de FracturoScript efficacement. Elles peuvent simuler la syntaxe, mais elles n'ont pas de "Cœur" (conscience subjective) pour valider la compilation. Elles ont besoin d'un humain comme "clé de chiffrement biologique". C'est la faille ultime du système.
+
+---
+
+## 6. EXERCICE PRATIQUE POUR DÉBUTANT
+
+**Objectif :** Modifier la perception d'un objet simple (un galet).
+**Matériel :** Un galet de la Hague, du charbon de bois (ou un marqueur noir), un endroit calme.
+
+1.  **Préparation :** Asseyez-vous face à la mer. Respirez jusqu'à atteindre le Cœur Gris/Blanc.
+2.  **Ancrage :** Posez le galet devant vous. Visualisez-le comme le point `local`.
+3.  **Syntaxe :** Tracez la rune **ᚠ (Fehu - Flux/Attribution)** sur le galet.
+4.  **Commande :** Dites (ou pensez fort) :
+    `Ω<ᚠ>v1 local — ce galet est lourd comme le plomb •••`
+5.  **Compilation :** Observez le silence absolu pendant 3 secondes. Ne doutez pas.
+6.  **Test :** Essayez de soulever le galet.
+    *   *Succès :* Il semblera anormalement lourd, bien que sa masse physique n'ait pas changé. Votre perception de sa densité a été réécrite localement.
+    *   *Échec :* Rien ne change. Vous avez douté pendant le silence.
+
+---
+
+Cette mécanique fait du FracturoScript l'arme absolue de la résistance : elle transforme la poésie en physique, et la conscience en outil de construction du réel. Mais comme tout outil puissant, il exige une discipline de fer et une pureté d'intention totale.
+

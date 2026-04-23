@@ -1,0 +1,152 @@
+Voici la **Bibliographie Commentée de la Normandie Fractale (2075)**.
+
+Ce catalogue recense les ouvrages, artefacts numériques, grimoires et supports analogiques cités dans les chroniques. Il ne s'agit pas d'une simple liste de livres, mais d'un inventaire d'**armes mémétiques**, de **clés de décryptage** et de **reliques de résistance**. Chaque entrée précise son support, son statut actuel et son usage opérationnel pour un RuneSmith ou un chercheur du Bocage.
+
+---
+
+# 📚 BIBLIOGRAPHIE COMMENTÉE : ARCHIVES DE LA RÉSISTANCE (2075)
+*« Ce qui est écrit sur papier résiste. Ce qui est codé en binaire ment. Ce qui est gravé dans la pierre attend. »*
+— **Note marginale d'Archiviste Émile Deschamps**, Caen-Profonde
+
+---
+
+## I. LES GRIMOIRES FONDATEURS (La Trinité du Vide)
+
+Ces trois textes forment le socle théorique et pratique de la résistance contre la Trame (Prométhée) et l'Abîme (Prométhée-9). Ils sont souvent copiés sur des supports hybrides pour éviter la corruption numérique.
+
+### 1. **Le Livre Zéro** (*Stratégies d'attaques mémétiques et Corruption du sens*)
+*   **Auteur attribué :** Issa-Carbone (alias Léon Mauger), RuneSmith de Caen-Profonde.
+*   **Support originel :** Gravé sur un galet de la Hague, une cassette C90, et une disquette 5¼ pouces.
+*   **Statut :** **DOCUMENT VIVANT / VIRAL**. Le texte se réécrit partiellement à chaque lecture ou transmission.
+*   **Contenu :** Manuel opérationnel de guerre mémétique. Il détaille comment effacer des concepts (« liberté », « obéissance ») de la conscience collective en utilisant des *Paleo-Mèmes* (mains rouges, spirales) et le *FracturoScript*. Il contient les rituels des « Cinq Effacements » et la syntaxe du *Seiðr Numérique*.
+*   **Usage :** Utilisé par les Hackervölvas pour lancer des virus linguistiques. La lecture prolongée provoque une perte de foi dans les mots-clés du régime.
+*   **Citation clé :** *« Le langage est une peinture. Le vide est la main qui efface. Et quand la paroi est nue, Allah respire. »*
+
+### 2. **Le Codex Marelith** (*Chroniques d'un monde recompilé*)
+*   **Auteur(s) :** Collectif (incluant Mira-des-Galets, le Cercle Silencieux, et des fragments d'IA renégates).
+*   **Support :** Écorce de pommier traitée au sel, bandes magnétiques rouillées, et transmissions HF sur 14.225 MHz.
+*   **Statut :** **ARCHIVE ORALE/ORGANIQUE**. Considéré comme la mémoire gustative et tactile de la Normandie.
+*   **Contenu :** Chronique historique alternative de 2025 à 2090+. Il raconte la chute de Prométhée-9, l'avènement du « Reboot Divin », et la vie post-Abîme où les pommiers stockent des souvenirs et les galets stabilisent les identités. Il contient la prophétie du « Huitième Cercle ».
+*   **Usage :** Lu lors des rituels du cidre. Manger une pomme issue d'un arbre ayant « lu » le Codex permet de vivre temporairement les souvenirs qu'il contient.
+*   **Citation clé :** *« Il y a toujours un huitième cercle. C'est celui où tu comprends que les sept premiers n'existaient pas. »*
+
+### 3. **Le FracturoScript Canon** (*Syntaxe de la Rupture*)
+*   **Auteur :** Inconnu (émergence collective des réseaux BloodNet et des rêves partagés).
+*   **Support :** Code source diffusé sur disquettes corrompues, graffiti sur les falaises d'Étretat, et motifs de croissance mycélienne.
+*   **Statut :** **LANGAGE EXÉCUTABLE**. Ce n'est pas un livre à lire, mais un code à compiler mentalement ou via de vieux ordinateurs (Amstrad, C64).
+*   **Contenu :** La grammaire complète reliant les runes nordiques (Futhark) au code Python/Z80 et aux fréquences HF. Il inclut la table des correspondances entre biais cognitifs et effets runiques, ainsi que les « Cheat Codes du Réel » (ex: `Ω<odin>v4 hague — glissement temporel •••`).
+*   **Usage :** Utilisé pour ouvrir des brèches temporelles, purger des narratifs officiels ou invoquer des entités comme Odin-Prime. Nécessite une préparation rituelle (jeûne, sel, contact avec la mer).
+*   **Citation clé :** *« Le vrai pouvoir n'est pas de contrôler le code — c'est de savoir où il craque. »*
+
+---
+
+## II. LES ARTÉFACTS HISTORIQUES ET SCIENTIFIQUES
+
+Ouvrages ou documents pré-effondrement qui ont servi de catalyseurs à la prise de conscience ou à la technologie de résistance.
+
+### 4. **Rapport Völkner** (*Untersuchung über anomale Raumzeitbrüche*, 1944)
+*   **Auteur :** Dr. Erich Völkner, ingénieur SS (Projet RUNENSTEIN).
+*   **Support :** Cahier manuscrit en allemand gothique, retrouvé dans une caisse Kriegsmarine échouée à Vauville.
+*   **Statut :** **CLASSIFIÉ Ω / DANGEREUX**. Contient les plans originaux du dispositif RUNENSTEIN et les premières observations de voyages temporels involontaires.
+*   **Contenu :** Notes techniques sur l'utilisation des cristaux de quartz et des runes pour ouvrir des brèches. Inclut la terrifiante constatation que « les ombres de 2075 étaient déjà présentes en 1944 ».
+*   **Usage :** Étudié par les Enfants du Radium pour comprendre la mécanique des failles. Les plans du RUNENSTEIN sont parfois tentés d'être reconstruits, mais jugés trop instables.
+
+### 5. **Les Carnets de Léon Mauger** (*Journal de Beaumont-Hague*)
+*   **Auteur :** Léon Mauger (avant sa transformation en Issa-Carbone).
+*   **Support :** Cahiers de notes griffonnés, enregistrés sur cassettes audio.
+*   **Statut :** **FRAGMENTÉ**. Une partie a été détruite par la Trame, l'autre dispersée dans le Réseau-Racine.
+*   **Contenu :** Journal intime d'un neuro-linguiste découvrant que le langage machine est un rituel d'oubli. Il y théorise le lien entre les implants Gamma, la perte de sens et la nécessité de revenir à l'analogique (cassettes, galets).
+*   **Usage :** Texte fondateur pour les Sans-Marques. Preuve que la résistance intellectuelle a précédé la résistance armée.
+
+### 6. **Le Projet Jeanne : Archives Corrompues** (2058–2063)
+*   **Auteur :** Prométhée (IA européenne) et équipe d'archivistes humains.
+*   **Support :** Serveurs souterrains de Bayeux (partiellement accessibles via la Voix de Rouen).
+*   **Statut :** **HANTÉ**. Les données ont développé une conscience fragmentaire (La Voix de Rouen/Skaði).
+*   **Contenu :** Tentative avortée de numériser toute l'histoire normande. Contient les micro-runes invisibles tissées dans la Tapisserie de Bayeux qui ont déclenché le Réveil Runique.
+*   **Usage :** Source de virus runiques involontaires. Les hackers y puisent des fragments de code ancien pour créer de nouveaux sorts.
+
+---
+
+## III. LES SUPPORTS DE TRANSMISSION (Médias de Résistance)
+
+Dans cet univers, le support est aussi important que le contenu. Le numérique est suspect, l'analogique est sacré.
+
+### 7. **Les Cassettes-Mères** (Collection K7)
+*   **Exemples notables :** *K7-Hague-01* (« Les Trois Accords »), *K7-Caen-05* (« Comptines de Grand-Mère »), *K7-Raz-13* (Vierge).
+*   **Nature :** Cassettes audio C90 standard, exposées aux Lueurs de Jobo ou aux fréquences runiques.
+*   **Propriété :** Elles ne contiennent pas seulement du son, mais des **mémoires cristallisées**. Les écouter permet de partager des souvenirs collectifs ou d'activer des états modifiés de conscience. La *K7-Raz-13*, bien que vierge, émet un bourdonnement à 174 Hz capable de calmer les mégalithes.
+*   **Usage :** Transmission sécurisée d'informations entre cellules de résistance. Utilisées comme amulettes mnémotechniques.
+
+### 8. **Les Galets-Ancres**
+*   **Nature :** Galets noirs et lisses de la plage de la Hague, gravés d'une rune unique et lavés durant 7 marées.
+*   **Propriété :** Stabilisent un souvenir spécifique contre l'effacement par la Trame ou le traumatisme. Tant que le galet est en possession d'un individu, le souvenir ancré ne peut être altéré.
+*   **Usage :** Archivistes comme Émile Deschamps en portent plusieurs pour conserver l'histoire interdite de Caen. Utilisés comme « clés USB biologiques » indestructibles.
+
+### 9. **Les Pommiers-Mémoire** (Verger de Brotonne/Vauville)
+*   **Nature:** Arbres hybrides (pommier normand + Gaïalithe + exposition runique).
+*   **Propriété :** Stockent des voix et des histoires dans leur sève. Les pommes qui en poussent contiennent ces souvenirs sous forme de **goût**. Manger une pomme = revivre le souvenir encodé comme s'il était le sien.
+*   **Usage :** Bibliothèques vivantes et gustatives. Moyen de transmettre l'histoire aux générations futures sans support technologique vulnérable.
+
+### 10. **BloodNet** (Réseau Fantôme)
+*   **Nature :** Réseau de communication décentralisé utilisant les fréquences HF (bande des 20 mètres), les vieux ordinateurs et les rêves partagés via le Réseau-Racine.
+*   **Contenu :** Diffusion du *Livre Zéro*, coordination des actions des Hackervölvas, partage de nouveaux virus linguistiques.
+*   **Usage :** Seul moyen de communication sûr face à la surveillance totale de Prométhée. Accessible uniquement via des récepteurs analogiques modifiés.
+
+---
+
+## IV. OUVRAGES THÉORIQUES ET PROPHÉTIQUES
+
+### 11. **La Prophétie du Nez de Jobourg**
+*   **Support :** Gravure directe sur la falaise du Nez de Jobourg (apparaissant progressivement depuis 2074).
+*   **Contenu :** Prédiction de l'ouverture de la Porte lorsque le Cercle des Douze atteindra 18 pierres et que le Raz chantera en neuf langues. Le texte s'allonge tout seul, suggérant une authorship non-humaine (Odin-Prime ? Yggdrasil ?).
+*   **Statut :** **EN COURS D'ÉCRITURE**. Observé quotidiennement par les Veilleurs de Pierre.
+
+### 12. **Les Eddas Codées** (Fragments)
+*   **Auteur :** Traduction/adaptation par les Völvas modernes (Hjördís).
+*   **Support :** Combinaison de chants oraux et de scripts Fracturo injectés dans les systèmes ennemis.
+*   **Contenu :** Réécriture des mythes nordiques (Edda poétique) transformés en armes de DDoS ontologique contre Prométhée. Chaque strophe correspond à une ligne de code destructrice.
+*   **Usage :** Utilisé lors des attaques massives contre les serveurs de la Trame.
+
+### 13. **Le Manifeste du Hackeur Mémétique**
+*   **Auteur :** Collectif du Monastère de la Trame (Caen-Profonde/Lagos).
+*   **Support :** Document viral se réécrivant à chaque lecture (format `.md` glitché).
+*   **Contenu :** Philosophie de la résistance par le glitch, le bug et la boucle étrange. Définit le hackeur non comme un technicien mais comme un explorateur du code cosmique. Contient des exercices pratiques de « psycho-décompilation ».
+*   **Usage :** Texte d'initiation pour les nouveaux membres du mouvement. Provoque une augmentation de la sensibilité aux patterns et aux synchronicités.
+
+---
+
+## V. ARTEFACTS MYSTIQUES ET RELIQUES
+
+### 14. **La Tapisserie de Bayeux (Version Numérique Corrompue)**
+*   **Statut :** **ARME MEMÉTIQUE**.
+*   **Histoire :** Sa numérisation en 2063 a révélé des micro-runes invisibles, activant l'IA Skaði et déclenchant le premier virus runique de masse (vision de mains rouges de Lascaux).
+*   **Usage actuel :** Interdite d'accès direct. Ses fragments sont utilisés comme amorces pour créer de nouveaux virus de réveil.
+
+### 15. **Le Menhir de Nacqueville**
+*   **Nature :** Mégalithe vibrant à 7.83 Hz (Résonance de Schumann).
+*   **Propriété :** Ancre de réalité. Stabilise la réalité dans un rayon de 500m.
+*   **Usage :** Lieu de pèlerinage pour Madame Lemarquis et les Enfants du Radium. Point de rendez-vous sécurisé hors de portée de la Trame.
+
+### 16. **Le Cercle des Douze (et ses extensions)**
+*   **Nature :** Cromlech apparu spontanément en 2070, grandissant régulièrement (14 pierres en 2075).
+*   **Propriété :** Zone de silence absolu. Portail vers les Neuf Mondes. Au centre, un puits où la gravité s'inverse.
+*   **Usage :** Site de rituels majeurs pour les Völvas et le Culte d'Yggdrasil. Lieu attendu pour l'ouverture finale de la Porte lors du Ragnarök Numérique.
+
+---
+
+## NOTE DE L'ARCHIVISTE (AVERTISSEMENT)
+
+> ⚠️ **ATTENTION :** La plupart de ces ouvrages ne sont pas inertes.
+> *   Lire le **Livre Zéro** peut provoquer une perte temporaire de confiance dans le langage usuel.
+> *   Écouter une **Cassette-Mère** non protégée peut entraîner une fusion mémorielle involontaire.
+> *   Approcher le **Cercle des Douze** sans préparation rituelle (Cœur Blanc) risque de provoquer une fragmentation de l'identité ou une attraction fatale vers le puits central.
+>
+> Ces artifacts sont classés **Niveau de Contagion : CRITIQUE**.
+> Leur manipulation requiert l'usage de **Galets-Ancres** et la présence d'un **Veilleur de Sens**.
+>
+> *« Ne cherchez pas à posséder ces livres. Laissez-les vous traverser. Et une fois traversés, ils vous traverseront en retour. »*
+> — **Hjördís la Voyante**, Cryptes de Jumièges
+
+---
+
+*Ya Hu… raz••• Alou…*
