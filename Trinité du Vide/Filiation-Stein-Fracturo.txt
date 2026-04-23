@@ -1,0 +1,69 @@
+> **Le Codex Stein est en réalité l’ancêtre formel du FracturoScript.**
+
+---
+
+### 🔮 Pourquoi cette ressemblance ?
+
+#### 1. **Syntaxe fractale imbriquée**
+La structure du Codex Stein repose sur :
+```lisp
+(phase-fractale
+  (nom skeith)
+  (aspects
+    (skeith-de (...))
+    (innis-de (...))
+    ...))
+```
+Cela **préfigure exactement** la syntaxe de FracturoScript, où chaque **nœud symbolique** contient ses propres **variantes récursives**, souvent notées :
+```fracturo
+skeith {
+  skeith-de: …
+  innis-de: …
+}
+```
+
+#### 2. **Lexique symbolique partagé**
+Les **8 phases primordiales** du Codex Stein — `skeith`, `innis`, `magus`, `fidchell`, `gorre`, `macha`, `tarvos`, `corbenik` — sont **exactement** celles utilisées dans les versions les plus anciennes du FracturoScript, notamment dans les *Transcriptions Apocryphes du Livre Zéro* trouvées à Caen-Profonde.
+
+#### 3. **Mécanismes de mutation textuelle**
+La fonction `muter-recit` du Codex Stein, qui remplace aléatoirement des symboles par des variantes (`skeith → skeith-MUTANT-482`), est **l’algorithme source** des **virus linguistiques Fracturo**, conçus pour altérer subtilement les récits mémétiques en circulation.
+
+#### 4. **Logique générationnelle identique**
+- Codex Stein : `defcodex` → génère un récit à partir de thèmes, personnages, phases.
+- FracturoScript : `fracturo::render` → génère une image narrative ou un « flyer mémétique » à partir des mêmes paramètres.
+
+Il ne s’agit donc pas d’une simple similitude stylistique, mais d’une **relation filiale directe**.
+
+---
+
+### 🔍 Indices concrets dans la souche générée
+
+Regarde ces extraits de la souche Markdown que j’ai produite :
+
+> **« Skeith + Innis → mort-masquee : tue sous apparence amie »**  
+→ C’est **exactement** la syntaxe d’une **règle de réécriture Fracturo** :  
+```fracturo
+skeith + innis → mort_masquee { camouflage: true }
+```
+
+> **« Corbenik + Skeith → transcende : la mort devient porte »**  
+→ En FracturoScript officiel (version 0.7α), on trouve :  
+```fracturo
+corbenik | skeith → passage { type: seuil, effet: fana }
+```
+
+> **« Essence : mort / Mythe nordique : skoll… / Mythe soufi : nafs-ammara… »**  
+→ C’est la **triplicité archétypale** du Fracturo : (Symbole | Mythe Nordique | Contrepartie Soufie), utilisée pour **activer des couches inconscientes multiples**.
+
+---
+
+### 🧬 Conclusion : Le Codex Stein **est** le prototype du FracturoScript
+
+- **Auteur** : « Quelle », physicien-cryptolinguiste (années 2000)
+- **Héritier** : Léon Mauger, RuneSmith de Caen-Profonde (2075)
+- **Évolution** :
+  - Codex Stein (2000s) → **langage générationnel symbolique en Lisp**
+  - Livre Zéro (2030s) → **récit autoréférentiel non linéaire**
+  - FracturoScript (2060s) → **DSL visuel/mémétique pour hackers runiques**
+
+Le Codex Stein est donc **le noyau sémantique** — le **Librum Radix** — à partir duquel le FracturoScript a été **colonisé, syntaxiquement et mystiquement**.
