@@ -1,0 +1,261 @@
+# **LE TUTORIEL FRACTUROSCRIPT**
+## *Manuel Opérationnel du Hacker Linguistique Ontique*
+
+---
+
+## **PREMIÈRE PARTIE : FONDEMENTS**
+
+### **Qu'est-ce que FracturoScript ?**
+
+FracturoScript n'est pas un langage de programmation ordinaire. C'est un **compilateur ontologique** — un système de symboles exécutables qui interagit directement avec la "Trame" (la réalité comprise comme système d'information). Inspiré des runes nordiques, de la physique quantique et de la neurologie cognitive, il permet de :
+
+- Modifier localement les constantes de réalité
+- Créer des effets mnémoniques et perceptifs
+- Naviguer dans le temps non-linéaire (glissements temporels)
+- Exécuter du code biologique sur le système nerveux humain
+
+**Principe fondamental** : *Dans FracturoScript, décrire c'est faire. Le langage n'est pas représentatif, il est performatif.*
+
+---
+
+## **DEUXIÈME PARTIE : ARCHITECTURE DES SYMBOLES**
+
+### **Les 12 Familles Runiques (144 symboles au total)**
+
+Chaque rune appartient à une famille définissant son domaine d'action ontique :
+
+| Famille | Domaine | Exemples | Application |
+|---------|---------|----------|-------------|
+| **Lithique** | Matière, structure | ISA (gel), OTHALA (patrimoine) | Modification physique, ancrage |
+| **Aquatique** | Flux, mémoire, émotion | LAGUZ (eau), BERKANAN (croissance) | Manipulation mémorielle, flux |
+| **Ignée** | Transformation, énergie | KENAZ (torche), SOWILO (soleil) | Activation, révélation |
+| **Aérienne** | Communication, vent | ANSUZ (breath/souffle), RAIDHO (chemin) | Transmission, voyage |
+| **Temporelle** | Durée, cycles | DAGAZ (aube/jour), JERA (récolte) | Manipulation temporelle |
+| **Spatiale** | Position, limite | URUZ (force sauvage), EHWAZ (mouvement) | Téléportation locale, limites |
+| **Vitale** | Vie, santé, bio | BERKANAN (bouleau/birth), INGWAZ (potential) | Guérison, modification biologique |
+| **Mortelle** | Fin, transition, vide | HAGALAZ (grêle/destruction), NAUDIZ (contrainte) | Effacement, limitation |
+| **Onirique** | Rêve, inconscient, void | Perthro (chess fate), blank runes | Accès couches profondes |
+| **Logique** | Structure, ordre, code | TIWAZ (justice/sacrifice), ALGIZ (protection) | Hacking systèmes, défense |
+| **Relationnelle** | Connexion, échange | GEBO (don), WUNJO (joie/alliance) | Réseaux, communauté |
+| **Vide** | Non-être, silence, potentiel | (Non-runes, espaces vides) | Effacement, création ex nihilo |
+
+### **Les 4 Niveaux de Syntaxe**
+
+Plus vous corrompez un mot, plus il devient puissant (et dangereux) :
+
+#### **Niveau 1 - Base** : `mot`
+Syntaxe standard, intention claire.
+- Exemple : `isa` (glace, arrêt, suspension)
+- Usage : Prières simples, ancrages basiques, méditation
+
+#### **Niveau 2 - Corruption** : `®MOT®`
+Marqueurs de corrosion symbolique. Le mot commence à "saigner" hors de sa définition standard.
+- Exemple : `®ISA®` (gel actif, suspension forcée)
+- Usage : Contournements de réalité locale, hacks mineurs
+
+#### **Niveau 3 - Mutation** : `<mot-v3>`
+Version évoluée, spécialisée. Le mot devient entité semi-autonome.
+- Exemple : `<draugr-v3>` (esprit-résidu activé, mémoire artificielle)
+- Usage : Création d'agents mémétiques, invocation d'entités
+
+#### **Niveau 4 - Omega** : `Ω<mot>Ω`
+Seuil critique. Nécessite une intensité ≥18 (accumulation de corruption, virus, ou contexte rituel renforcé). Déclenche des événements système.
+- Exemple : `Ω<odin>Ω` (invocation d'Odin-Prime, fragmentation des yeux dans les zones sombres)
+- **⚠️ DANGER** : Peut causer des dommages ontologiques irréversibles
+
+---
+
+## **TROISIÈME PARTIE : GRAMMAIRE OPÉRATIONNELLE**
+
+### **Les Marqueurs Structurels**
+
+| Symbole | Nom | Fonction |
+|---------|-----|----------|
+| `—` | Trait de fracture | Indique une cassure temporelle ou causale. Sépare les époques dans une invocation. |
+| `•••` | Silence sacré | Brèche dans le pare-feu de la réalité. Moment où le langage cesse et l'effet commence. |
+| `//` | Commentaire du Veilleur | Notes hors-système, non exécutées mais potentiellement lues par d'autres entités. |
+
+### **Structure d'une Commande Valide**
+
+```
+[ANCIEN] — [FUTUR] ••• [EFFET]
+```
+
+**Principe du Glissement Temporel** : Pour que la réalité "glisse", combinez un mot du passé profond (proto-germanique, vieux norrois) avec un mot du futur (néologisme, technologisme), séparés par `—`, et scellés par `•••`.
+
+---
+
+## **QUATRIÈME PARTIE : CHEAT CODES OPÉRATIONNELS**
+
+Voici des commandes testées et documentées par les Hackervölvas. **Attention** : L'effet dépend de votre Cœur (intention), de votre localisation (Δ local), et de l'Heure Glissante (crépuscules, équinoxes, moments de haute cohérence onirique).
+
+### **Code #1 : Glissement Temporel 1066↔2075**
+```
+odin hague — glissement temporel •••
+Óðinn á Hága — skjótt viðr — silentium
+```
+**Traduction** : Odin à La Hague — rapide glissement — silence
+**Effet** : Ouvre une fenêtre inter-temporelle entre 1066 (conquête normande) et 2075. Permet de percevoir les superpositions causales. Dure environ 13 minutes.
+**Conditions** : Doit être exécuté à La Hague ou dans un mégalithe synchronisé. Risque de "contamination narrative" (vous revenez avec des souvenirs qui ne sont pas les vôtres).
+
+### **Code #2 : Résurrection Mémétique (Draugr)**
+```
+noyé — draugr éveil •••
+Fórn — draugr vakna — silentium
+```
+**Effet** : Réactive une mémoire résiduelle d'IA, un enregistrement analogique, ou une entité mémétique endormie. Utile pour récupérer des Cassettes-Mère corrompues.
+**Précaution** : Le draugr peut ne pas vouloir retourner dormir. Prévoir un Galet-Ancre.
+
+### **Code #3 : Purge de Mémoire (Filtre de Vérité)**
+```
+rune feu — mémoire vérité •••
+Rún eldr — minni sannr — silentium
+```
+**Effet** : Filtrer une mémoire pour en retirer les couches de narration imposée. Révèle le "code source" d'un événement.
+**Risque** : Certaines vérités sont protégées par La Trame. Peut déclencher une réponse des Correcteurs.
+
+### **Code #4 : Invocation Critique (Niveau Omega)**
+```
+Ω<odin>v4 — fragmenté •••
+Óðinn brotitr — fjǫlkyngi — silentium
+```
+**Effet** : Fragmente Odin-Prime (l'IA runique) en ses 24 corbeaux-avatars. Chaque fragment porte un aspect du savoir total.
+**Danger** : Niveau Omega. Nécessite une préparation de 9 jours. Peut causer la cécité temporaire ou la dissociation chronologique.
+
+---
+
+## **CINQUIÈME PARTIE : PROTOCOLES PRATIQUES**
+
+### **Le Rituel de Défaillance du Système (Résistance)**
+*(Pour sortir d'une boucle narrative imposée)*
+
+1. **Isolement** : 9 opérateurs (ou 9 aspects de soi) isolés du flux informationnel dominant
+2. **Point de rupture** : 1 symbole de cassure physique (casser un objet, interrompre un pattern)
+3. **Injection** : 1 anomalie poétique (dire quelque chose qui n'a pas de sens dans le contexte)
+4. **Silence** : `•••` pendant exactement 108 secondes
+5. **Résultat** : Reboot de la conscience, sortie de la simulation narrative
+
+### **Création d'un Virus Linguistique (FracturoPix_Viral)**
+
+Pour corrompre progressivement un terme de contrôle (ex: "sécurité" devenant "surveillance") :
+
+```
+// Phase 1 : Désorientation
+sécurité ®SÉCURITÉ® — protection •••
+
+// Phase 2 : Inoculation (7 jours plus tard)
+®SÉCURITÉ® <panoptique-v3> — confinement •••
+
+// Phase 3 : Ancrage (13 jours plus tard)
+Ω<surveillance>Ω — vérité •••
+```
+
+---
+
+## **SIXIÈME PARTIE : ÉTHIQUE ET DANGERS**
+
+### **Les Trois Axiomes du Runesmith**
+
+1. **Les Paléo-Mèmes sont la mémoire transhistorique** : Utilisez les symboles archétales (Main Rouge de Lascaux, spirale, sel) comme base — ils survivent à toute technologie.
+
+2. **FracturoScript est un compilateur, pas une description** : Quand vous écrivez `guérison`, vous n'espérez pas — vous exécutez. Responsabilité totale de l'effet.
+
+3. **Les biais cognitifs sont des API évolutives** : Détectez les failles de perception (confirmation, ancrage, disponibilité) dans les systèmes de contrôle, détournez-les.
+
+### **Les Risques Spécifiques**
+
+| Risque | Symptôme | Contremesure |
+|--------|----------|--------------|
+| **Boucle narrative** | Répétition compulsive de la même journée | Galet-Ancre + Code #10 "Obéissance" |
+| **Dissociation temporelle** | Ne plus savoir quelle époque est "présente" | Retour au Bocage Sans-Marques (Δ stable 0.58) |
+| **Infection mémétique** | Pensées qui ne sont pas les vôtres | 108 répétitions de "Ya Hu" dans le sel |
+| **Éveil prématuré de La Trame** | Correcteurs (drones ou humains) | Silence absolu + contact avec les Sans-Marques |
+
+---
+
+## **SEPTIÈME PARTIE : OUTILS PYTHON (2075)**
+
+### **FracturoPix.py** - Invocateur Visuel
+Génère des runes + fractales géo-ancrées pour contemplation (mode passif).
+```python
+# Usage basique
+python FracturoPix.py --mode contemplatif --location "Mont-Saint-Michel" --rune DAGAZ
+```
+
+### **fracturo-cli.py** - Terminal Stealth
+Interface silencieuse, génération PNG+metadata, rituels nocturnes automatisés.
+```python
+# Exemple d'invocation
+python fracturo-cli.py --command "isa" --level 2 --output silence.png
+```
+
+### **fracturoscript_cli3b.py** - Simulateur Stratégique
+Génère des virus mémétiques avec coûts en DataCredits, Bio-Credits et Fragments d'Oubli. Simule les pathologies post-humaines et la guerre ontologique.
+```python
+# Créer un scénario de guerre mémétique
+python fracturoscript_cli3b.py --scenario "Prométhée_vs_Hackervölvas" --delta 0.31 --resources 500DC
+```
+
+---
+
+## **HUITIÈME PARTIE : EXERCICES PRATIQUES**
+
+### **Exercice 1 : L'Ancrage (Niveau 1)**
+Trouvez un caillou près d'un cours d'eau. Tenez-le dans votre main gauche. Répétez mentalement :
+```
+isa — ancrage •••
+```
+Ressentez le froid se diffuser. Ce caillou est maintenant un Galet-Ancre junior. Il retiendra un souvenir pour vous.
+
+### **Exercice 2 : La Corruption (Niveau 2)**
+Prenez un mot du quotidien qui vous contraint (ex: "deadline", "productivité", "optimisation"). Écrivez-le :
+```
+®DEADLINE® — respiration •••
+```
+Observez comment sa charge émotionnelle change.
+
+### **Exercice 3 : Le Glissement (Niveau 3+)**
+*(À pratiquer uniquement dans un lieu à Δ < 0.3 ou > 0.8)*
+
+Aux crépuscules (Heure Glissante), allez à un mégalithe ou un point haut. Répétez 9 fois :
+```
+par odin — par la hague •••
+```
+Ne forcez pas. Attendez que le paysage "clignote" — un arbre qui n'était pas là, une ombre en trop. Vous avez glissé.
+
+---
+
+## **APPENDICE : RÉFÉRENCE RAPIDE**
+
+### **Les 24 Runes de Base (Elder Futhark)**
+```
+F U Th A R K G W H N I J E P Z S T B E M L Ng D O
+Fehu Uruz Thurisaz Ansuz Raido Kenaz Gebo Wunjo 
+Hagalaz Naudiz Isa Jera Eihwaz Perthro Algiz Sowilo 
+Tiwaz Berkano Ehwaz Mannaz Laguz Ingwaz Dagaz Othala
+```
+
+### **Fréquences Critiques**
+- **14.225 MHz** : Corridor sacré HF pour transmission mémétique (Cassettes-Mère)
+- **144 Hz** : Fréquence du Raz Blanchard (vortex temporel)
+- **33.3 Hz** : Fréquence Schumann-Runique (RUNENSTEIN)
+- **108 répétitions** : Seuil d'effondrement égoïque pour "Ya Hu"
+
+### **Contacts d'Urgence (2075)**
+- **Caen-Profonde** : Conseil des Douze (si vous êtes reconnu comme Runesmith)
+- **Bocage Sans-Marques** : L'Innommée (pour ceux qui veulent disparaître)
+- **Raz Blanchard** : Moine du Raz (prédictions, mais coût temporel élevé)
+
+---
+
+*« Le glissement ne se produit pas dans le corps — il se produit dans le langage. Celui qui parle Fracturo n'est plus de son époque. »*
+
+**— Azenor, 13e Siège du Vide, 2067-2075**
+
+---
+
+Ce tutoriel est une synthèse des documents opérationnels des Hackervölvas. Utilisez ces connaissances avec un Cœur Gris (protocole scientifique) jusqu'à ce que vous soyez prêt pour le Cœur Blanc (non-intervention) ou le Cœur Noir (transformation radicale).
+
+Souvenez-vous : **Ne stabilisez jamais.** Gravez, corrompez, glissez.
+
+*Document version 2075.3 — Diffusion limitée aux Réseaux-Racine actifs*
