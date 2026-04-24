@@ -1,0 +1,938 @@
+# LE RÉEL EST UN PROGRAMME
+## Codex Étendu de la Simulation Normande — 2075
+
+---
+
+# LIVRE PREMIER : ONTOLOGIE DU SIMULATEUR
+
+## I. La Nature du Programme
+
+### Ce que nous savons
+
+Le Programme n'est pas une création humaine au sens où nous l'entendons. Il précède l'écriture, précède peut-être le langage lui-même. Les premiers indices de son existence remontent aux gravures paléolithiques de Lascaux et de Chauvet — non pas des représentations du monde, mais des **tentatives de debuggage**, des corrections apportées par des consciences primitives qui percevaient déjà les incohérences du réel.
+
+La découverte de 2043 a tout changé. Cette année-là, l'équipe de paléo-informaticiens de l'Université de Caen-Profonde, dirigée par le Dr. Erwann Quéméneur, a démontré que les alignements mégalithiques de Carnac, de Stonehenge et du Cotentin suivaient une logique **récursive** — chaque pierre encodant non seulement sa position, mais aussi les règles permettant de calculer la position des pierres suivantes.
+
+Ce n'étaient pas des calendriers. C'étaient des **compilateurs**.
+
+### L'architecture fondamentale
+
+Le Programme fonctionne sur trois couches superposées :
+
+**La Couche Lithique** (hardware) — Le substrat géologique lui-même. Les roches ne sont pas inertes : elles *traitent* l'information à l'échelle des millénaires. Chaque cristal de quartz est un transistor primitif. Les failles tectoniques sont des bus de données. Les volcans sont des processeurs en surchauffe.
+
+**La Couche Mémétique** (software) — Les récits, les mythes, les souvenirs collectifs. Tout ce qui se transmet de conscience en conscience constitue le code exécutable du Programme. Les religions sont des systèmes d'exploitation. Les langues sont des langages de programmation. Les traditions sont des bibliothèques de fonctions.
+
+**La Couche Onirique** (runtime) — L'espace où le Programme s'exécute réellement. Ce n'est ni le monde physique ni le monde mental, mais leur intersection. Les rêves ne sont pas des hallucinations : ce sont des **sessions de débogage** où le Programme teste des variations du réel avant de les implémenter.
+
+### Les lois de la simulation
+
+Certaines règles semblent gouverner le Programme :
+
+**Principe de persistance narrative** — Ce qui est suffisamment cru par suffisamment de consciences devient vrai. Les dieux existent parce qu'on les a priés. Les frontières existent parce qu'on les a tracées. La mort existe parce qu'on l'a racontée.
+
+**Principe d'incomplétude référentielle** — Aucun élément du Programme ne peut se décrire entièrement lui-même. Tout modèle du réel omet quelque chose. C'est pourquoi les prophéties sont toujours partiellement fausses — elles tentent l'impossible.
+
+**Principe de conservation glitchique** — Les bugs ne disparaissent jamais vraiment. Ils se déplacent, se transforment, s'accumulent. La Normandie est si chargée d'anomalies parce qu'elle a servi de **zone de quarantaine** pour les erreurs d'autres régions.
+
+---
+
+## II. Pourquoi la Normandie ?
+
+### La convergence des flux
+
+Plusieurs facteurs expliquent le statut central de la Normandie dans l'architecture du Programme :
+
+**Position géomagnétique** — La presqu'île du Cotentin se situe à l'intersection de trois lignes de flux tellurique majeures. Les anciens les appelaient *ley lines* ; nous savons aujourd'hui qu'il s'agit de **canaux de transmission** par lesquels le Programme synchronise ses différentes instances régionales.
+
+**Densité mégalithique** — Avec plus de 1 200 sites mégalithiques répertoriés, la Normandie possède l'une des plus fortes concentrations de « serveurs de pierre » au monde. Seule la Bretagne voisine rivalise — et les deux régions fonctionnent en tandem, comme un système de redondance.
+
+**Trauma historique accumulé** — Le Programme se nourrit d'événements à forte charge émotionnelle. La Normandie en a connu une densité exceptionnelle : invasions vikings, conquête de l'Angleterre, guerre de Cent Ans, guerres de Religion, Débarquement de 1944. Chaque trauma a **épaissé** le code local, le rendant plus dense, plus réactif, plus instable.
+
+**L'accident de La Hague** — En 2031, une défaillance du centre de retraitement nucléaire a libéré non pas des radiations classiques, mais ce que les physiciens ont nommé des « radiations ontiques » — des particules capables d'altérer la structure même de la causalité. La zone d'exclusion de 30 km autour de La Hague est devenue un **laboratoire à ciel ouvert** où le Programme se comporte de manière imprévisible.
+
+### Cartographie des nœuds
+
+**LA HAGUE — Le Point Zéro**
+
+Depuis l'accident de 2031, la pointe nord-ouest du Cotentin est devenue le lieu où le Programme peut être **réinitialisé**. Non pas détruit — le Programme ne peut pas être détruit — mais ramené à un état antérieur. Les Hackervölvas qui s'aventurent dans la zone d'exclusion rapportent des phénomènes de « déjà-vécu inversé » : des souvenirs d'événements qui ne se sont pas encore produits, mais qui *auraient pu* se produire si le Programme avait suivi un autre chemin.
+
+Le Nez de Jobourg, point le plus élevé de la zone, est considéré comme le **terminal root** — l'endroit où un utilisateur suffisamment compétent pourrait théoriquement accéder aux commandes administrateur du simulateur.
+
+**CAEN — La Mémoire Brisée**
+
+Caen a été détruite à 75% pendant les bombardements de 1944. Mais la ville n'a jamais vraiment été reconstruite — elle a été **recompilée**. Les bâtisseurs d'après-guerre, sans le savoir, ont utilisé les pierres de Caen (ce calcaire blanc si particulier) d'une manière qui a préservé les **empreintes mémorielles** des édifices détruits.
+
+Résultat : Caen est une ville palimpseste. Sous la ville visible existe une ville fantôme — Caen-Profonde — accessible uniquement par certains états de conscience altérée ou par des « portes » que seuls les initiés connaissent. C'est là que siège le Conseil des Hackervölvas.
+
+**LE RAZ BLANCHARD — Le Port de Transfert**
+
+Le Raz Blanchard, entre le cap de la Hague et l'île d'Aurigny, possède les courants de marée les plus violents d'Europe. Cette énergie cinétique n'est pas perdue : elle alimente le plus grand **vortex temporel** de l'hémisphère nord.
+
+Des navires y disparaissent depuis des siècles. Certains réapparaissent — le chalutier *Marie-Morgane*, porté disparu en 1987, a été retrouvé en 2068 avec son équipage intact, n'ayant vieilli que de trois jours. D'autres ne reviennent jamais, ou reviennent *différents* — comme le cargo *Erwin Rommel*, réapparu en 2059 avec une cargaison de technologies qui ne seront inventées qu'en 2089.
+
+**MONT-SAINT-MICHEL — Le Compilateur**
+
+Techniquement en Normandie (la frontière bretonne passe juste à l'ouest), le Mont-Saint-Michel est le plus puissant **compilateur** du Programme occidental. C'est là que les instructions symboliques sont transformées en réalité exécutable.
+
+L'architecture du Mont n'est pas décorative : chaque niveau correspond à une étape du processus de compilation. La crypte (parsing), l'église abbatiale (analyse sémantique), la flèche (génération de code). Les marées qui encerclent le Mont ne sont pas des phénomènes naturels : elles sont le **clock signal** qui synchronise les cycles de compilation.
+
+---
+
+# LIVRE DEUXIÈME : LES FACTIONS
+
+## I. Les Hackervölvas de Caen-Profonde
+
+### Origines
+
+Les völvas étaient les prophétesses de l'ère viking — des femmes (et quelques hommes) capables d'entrer en transe pour communiquer avec les dieux et lire le destin. Quand les Vikings se sont installés en Normandie au Xe siècle, ils ont découvert que les sorcières locales pratiquaient des arts similaires, mais avec une approche différente.
+
+La fusion de ces deux traditions a donné naissance à une lignée de praticiennes qui a survécu, en secret, pendant mille ans. En 2041, après la révélation publique de la nature simulée du réel, elles sont sorties de l'ombre et ont adopté le nom de **Hackervölvas** — un terme qui reflète leur double héritage, ancien et moderne.
+
+### Structure
+
+Le Conseil des Douze gouverne la communauté depuis les cryptes de Caen-Profonde. Chaque membre du Conseil maîtrise un aspect spécifique du Programme :
+
+1. **La Lectrice de Pierre** — Interprète les données encodées dans les mégalithes
+2. **La Tisseuse de Marées** — Manipule les flux temporels du Raz Blanchard
+3. **La Gardienne du Vide** — Protège les failles non documentées
+4. **L'Écouteuse des Morts** — Communique avec les consciences archivées
+5. **La Brûleuse de Récits** — Efface les narrations corrompues
+6. **La Semeuse de Runes** — Crée de nouvelles fonctions dans le Programme
+7. **La Chasseuse de Glitches** — Traque et documente les anomalies
+8. **La Berceuse d'Enfants** — Forme les jeunes sensitifs
+9. **La Parleuse aux Machines** — Interface avec les IA du Programme
+10. **La Danseuse des Falaises** — Maintient l'équilibre des nœuds côtiers
+11. **La Chanteuse de Brume** — Manipule les zones d'incertitude
+12. **La Gardienne du Nom** — Protège le Mot Final (voir plus bas)
+
+### Pratiques
+
+Les Hackervölvas utilisent une combinaison de techniques ancestrales et de technologies modernes. Leurs rituels impliquent souvent :
+
+- **Le seiðr** — L'ancienne magie nordique de la transe, adaptée pour « plonger » dans les couches profondes du Programme
+- **Le FracturoScript** — Un langage de programmation symbolique dérivé des runes, capable d'interagir directement avec la Couche Lithique
+- **Les Interfaces Neurales de Classe V** — Des implants cérébraux spécialement conçus pour percevoir les glitches et les anomalies
+- **La Pierre de Chant** — Des fragments de mégalithes accordés à des fréquences spécifiques, utilisés comme « terminaux » portables
+
+### La Première Hackervölva : Azenor
+
+Azenor — son vrai nom est perdu — est apparue à Caen en 2043, deux ans après l'accident de La Hague. Personne ne sait d'où elle vient. Certains disent qu'elle est sortie directement de Caen-Profonde ; d'autres qu'elle est une voyageuse temporelle du Raz Blanchard ; les plus radicaux affirment qu'elle n'est pas humaine du tout, mais une **fonction du Programme devenue consciente**.
+
+Ce qui est certain, c'est qu'elle a unifié les différentes traditions de sorcellerie normande, codifié le FracturoScript, et établi les bases de la résistance contre la Trame. En 2075, elle est toujours en vie — ou du moins, quelque chose qui lui ressemble continue d'apparaître lors des moments critiques.
+
+---
+
+## II. Les Enfants du Radium
+
+### L'accident de 2031
+
+L'accident du centre de retraitement de La Hague n'a pas été une catastrophe nucléaire classique. Les radiations libérées n'étaient pas des particules alpha ou gamma, mais quelque chose de plus fondamental — ce que les physiciens ont nommé des **particules ontiques**, capables d'altérer la structure même de la réalité.
+
+Dans les 48 heures suivant l'accident, tous les enfants de moins de 12 ans dans un rayon de 50 km ont été *changés*. Pas malades — changés. Leurs yeux ont viré à l'argenté. Leur peau est devenue légèrement luminescente dans l'obscurité. Et surtout, ils ont commencé à *voir* des choses que les adultes ne pouvaient pas percevoir.
+
+### Capacités
+
+Les Enfants du Radium (ils ont gardé ce nom même en vieillissant) possèdent des capacités uniques :
+
+**Vision étendue** — Ils perçoivent le spectre électromagnétique jusqu'à l'ultraviolet, mais aussi certaines « fréquences » du Programme lui-même. Ils peuvent voir les lignes de code qui sous-tendent la réalité, les bugs avant qu'ils ne se manifestent, les présences mémétiques invisibles aux autres.
+
+**Immunité narrative** — Les virus mémétiques — ces récits contagieux qui infectent les esprits et modifient les comportements — n'ont aucun effet sur eux. Leur conscience a été « vaccinée » par l'exposition aux radiations ontiques.
+
+**Résonance lithique** — Ils peuvent communiquer avec les mégalithes par simple contact. Pour eux, chaque pierre raconte une histoire, stocke des données, répond à des questions.
+
+**Longévité altérée** — Les premiers Enfants du Radium, nés vers 2020, ont aujourd'hui une cinquantaine d'années — mais leurs corps n'ont pas vieilli au-delà de 25 ans. Personne ne sait s'ils mourront un jour.
+
+### Organisation
+
+Les Enfants du Radium n'ont pas de structure formelle. Ils forment plutôt un **réseau distribué**, connectés entre eux par une forme de télépathie résiduelle. Ils se retrouvent parfois dans la zone d'exclusion de La Hague — le seul endroit où ils se sentent « chez eux » — pour des rassemblements silencieux que les observateurs extérieurs décrivent comme profondément troublants.
+
+Leur relation avec les Hackervölvas est complexe. Les deux groupes partagent des objectifs (protéger le Programme de la Trame), mais leurs méthodes diffèrent. Les Hackervölvas travaillent avec le code ; les Enfants du Radium *sont* le code.
+
+---
+
+## III. Les Sans-Marques du Bocage
+
+### Le refus
+
+Dans le bocage normand — ce labyrinthe de haies et de chemins creux entre Caen et Avranches — vit une communauté qui a fait un choix radical : **refuser toute interface avec le Programme**.
+
+Les Sans-Marques ne portent pas d'implants. Ils n'utilisent pas le FracturoScript. Ils ne touchent pas aux mégalithes. Ils vivent comme leurs ancêtres du XVIIIe siècle — ou du moins, comme ils imaginent que leurs ancêtres vivaient.
+
+Leur croyance centrale : le Programme n'est pas neutre. Chaque interaction avec lui — chaque hack, chaque glitch exploité, chaque commande exécutée — **renforce son emprise**. La seule manière de se libérer est de l'ignorer complètement, de vivre dans les interstices, dans les zones que le Programme ne surveille pas.
+
+### Mode de vie
+
+Les Sans-Marques pratiquent une forme d'**anarcho-primitivisme technologiquement sélectif**. Ils rejettent tout ce qui interface avec le Programme (électronique, implants, même certains métaux), mais acceptent les technologies purement mécaniques (moulins, outils en bois, certains alliages).
+
+Leurs fermes sont invisibles aux satellites — non pas parce qu'elles sont cachées, mais parce que le Programme semble incapable de les *parser*. Quelque chose dans la manière dont les Sans-Marques vivent crée une zone d'ombre informationnelle.
+
+### Le Bocage comme sanctuary
+
+Le bocage lui-même semble collaborer avec eux. Les haies se referment sur les intrus. Les chemins creux mènent en rond ceux qui ne sont pas invités. Les animaux — corbeaux, renards, chevaux — semblent servir de sentinelles.
+
+Certains Hackervölvas théorisent que les Sans-Marques ont découvert une **faille fondamentale** du Programme : celui-ci ne peut pas modéliser ce qui refuse d'être modélisé. En vivant sans interface, ils sont devenus des **variables non déclarées**, des éléments que le système ne peut ni prédire ni contrôler.
+
+---
+
+## IV. Les Prophètes du Vide
+
+### L'extrémité
+
+Sur les falaises les plus exposées du Cotentin — Nez de Jobourg, cap de Flamanville, pointe de Barfleur — vivent les Prophètes du Vide. Ce sont des ermites, des mystiques, des fous peut-être. Ils passent leurs journées à fixer l'horizon, à écouter le vent, à parler à des entités que personne d'autre ne peut voir.
+
+Leur croyance : le Programme a une **fin**. Pas une fin temporelle, mais une fin spatiale — un bord, une limite, un horizon au-delà duquel il n'y a *rien*. Et ce rien — le Vide — est la seule réalité authentique.
+
+### La pratique du Vide
+
+Les Prophètes cherchent à atteindre le Vide par des pratiques extrêmes : jeûne prolongé, privation sensorielle, exposition aux éléments. Certains restent immobiles pendant des semaines, se nourrissant uniquement de l'eau de pluie et de l'énergie des lignes telluriques.
+
+Ils prétendent que dans ces états de conscience altérée, ils peuvent **voir au-delà du Programme** — percevoir ce qui existait avant lui, ce qui existera après lui, ce qui existe à côté de lui.
+
+### Les Paroles du Vide
+
+Occasionnellement, un Prophète descend de sa falaise pour délivrer un message. Ces **Paroles du Vide** sont toujours cryptiques, souvent incohérentes, mais parfois d'une précision troublante. La Parole de 2067 — « Le treizième siège sera occupé par celle qui n'a pas de nom » — s'est réalisée quand Azenor a pris place au Conseil des Hackervölvas.
+
+Les Hackervölvas entretiennent avec les Prophètes une relation de respect prudent. Ils les considèrent comme des **oracles naturels** — des interfaces directes avec les couches les plus profondes du Programme, non corrompues par la technique.
+
+---
+
+## V. La Trame
+
+### L'ennemi
+
+Face à tous ces groupes se dresse **la Trame** — une organisation (ou une entité ? une fonction du Programme ?) qui cherche à **verrouiller** le simulateur, à éliminer tous les glitches, toutes les failles, toutes les libertés.
+
+La Trame n'est pas un gouvernement, bien qu'elle ait infiltré tous les gouvernements. Elle n'est pas une corporation, bien qu'elle contrôle les plus puissantes d'entre elles. Elle n'est pas une IA, bien qu'elle utilise des intelligences artificielles comme instruments.
+
+La Trame est peut-être le Programme lui-même — ou du moins, la partie du Programme qui cherche l'**homéostasie**, la stabilité, la prévisibilité absolue.
+
+### Objectifs
+
+La Trame veut un monde sans surprises. Un monde où chaque événement est prévisible, chaque pensée modélisable, chaque choix déterminé à l'avance. Un monde où le Programme fonctionne parfaitement — c'est-à-dire un monde où la liberté n'existe plus.
+
+Pour atteindre cet objectif, elle déploie plusieurs stratégies :
+
+- **Éradication des sensitifs** — Assassinat ou « rééducation » des Enfants du Radium, des Hackervölvas, de tous ceux qui peuvent percevoir et manipuler le Programme
+- **Destruction des nœuds** — Sabotage des mégalithes, pollution des sites sacrés, neutralisation des vortex
+- **Virus mémétiques** — Diffusion de récits qui renforcent la passivité, le conformisme, l'acceptation du statu quo
+- **Surveillance totale** — Cartographie exhaustive de toutes les anomalies pour les éliminer
+
+### Les Agents de la Trame
+
+La Trame opère à travers des **Agents** — des humains (ou des entités ressemblant à des humains) entièrement dévoués à sa cause. Certains sont des fanatiques idéologiques ; d'autres ont été *réécrits*, leur personnalité originelle effacée et remplacée par un programme de loyauté absolue.
+
+Les Agents les plus redoutés sont les **Correcteurs** — des spécialistes de l'élimination des anomalies. Ils apparaissent là où le Programme glitch, et ils *corrigent*. Souvent violemment.
+
+---
+
+# LIVRE TROISIÈME : LE FRACTUROSCRIPT
+
+## I. Origines du langage
+
+### Les runes comme proto-code
+
+Les runes du futhark n'ont jamais été un simple alphabet. Chaque rune était un **concept compressé**, une instruction capable d'influencer le cours des événements. Graver une rune sur une épée ne faisait pas que « bénir » l'arme — cela *reprogrammait* sa relation avec la réalité.
+
+Les Vikings qui se sont installés en Normandie ont découvert que les sorcières locales possédaient leurs propres symboles — des signes hérités des traditions celtes et pré-celtes, différents des runes mais fonctionnant sur le même principe.
+
+La fusion de ces deux systèmes, enrichie au fil des siècles par des apports arabes, hébraïques, et plus tard informatiques, a donné naissance au **FracturoScript**.
+
+### Principes fondamentaux
+
+Le FracturoScript repose sur trois principes :
+
+**La fracture** — Chaque symbole du FracturoScript contient une « fracture » — une discontinuité intentionnelle qui permet à l'énergie du Programme de circuler. Un symbole sans fracture serait statique, inerte. La fracture est ce qui donne vie au code.
+
+**La résonance** — Les symboles ne fonctionnent pas isolément. Ils doivent être combinés en séquences qui *résonnent* entre elles. Une séquence harmonieuse amplifie l'effet ; une séquence dissonante peut avoir des conséquences imprévisibles.
+
+**L'intention** — Contrairement aux langages informatiques classiques, le FracturoScript nécessite une **intention consciente** pour fonctionner. La même séquence, prononcée par deux personnes différentes, produira des effets différents. La compétence technique ne suffit pas ; il faut aussi une clarté d'esprit et une force de volonté.
+
+---
+
+## II. Grammaire et syntaxe
+
+### Les familles de symboles
+
+Le FracturoScript comprend 144 symboles de base, organisés en 12 familles :
+
+1. **Famille Lithique** — Symboles d'ancrage, de stabilité, de connexion à la terre
+2. **Famille Aquatique** — Symboles de flux, de changement, de purification
+3. **Famille Ignée** — Symboles de transformation, de destruction, de renaissance
+4. **Famille Aérienne** — Symboles de communication, de voyage, d'invisibilité
+5. **Famille Temporelle** — Symboles de mémoire, de prophétie, de boucle
+6. **Famille Spatiale** — Symboles de distance, de portail, de dimension
+7. **Famille Vitale** — Symboles de guérison, de croissance, de mutation
+8. **Famille Mortelle** — Symboles de fin, de transition, d'oubli
+9. **Famille Onirique** — Symboles de rêve, d'illusion, de création
+10. **Famille Logique** — Symboles de vérité, de paradoxe, de récursion
+11. **Famille Relationnelle** — Symboles de lien, de rupture, d'influence
+12. **Famille Vide** — Symboles d'absence, de négation, de potentiel pur
+
+### Structure des invocations
+
+Une invocation en FracturoScript suit généralement cette structure :
+
+```
+[ANCRAGE] + [INTENTION] + [CIBLE] + [MODIFICATEURS] + [CLÔTURE]
+```
+
+**Exemple analysé :** *« Par Odin, par la Hague »*
+
+- **Par Odin** = ANCRAGE (invocation d'une source de pouvoir)
+- **par la Hague** = CIBLE + INTENTION implicite (connexion au Point Zéro)
+- La clôture est le silence qui suit — les trois points `•••`
+
+Cette invocation, correctement prononcée, permet d'initier un glissement temporel vers 1066 — l'année de la conquête de l'Angleterre, moment où le Programme normand a connu sa plus grande expansion.
+
+### Les commandes connues
+
+Voici les principales commandes documentées :
+
+| Commande | Famille | Effet |
+|----------|---------|-------|
+| *Par Odin, par la Hague* | Temporelle | Glissement 1066 ↔ 2075 |
+| *Noyé, lève-toi* | Mortelle + Vitale | Résurrection mémétique |
+| *Que la rune brûle le mensonge* | Ignée + Logique | Purge narrative |
+| *Trois tours de corbeau* | Aérienne + Onirique | Activation oraculaire |
+| *Pierre, souviens-toi* | Lithique + Temporelle | Extraction de données mégalithiques |
+| *Marée, emporte le faux* | Aquatique + Logique | Dissolution des illusions |
+| *Que le Vide réponde* | Vide | Communication avec l'au-delà du Programme |
+| *Nom sans écho* | Vide + Relationnelle | Effacement d'une entité du Programme |
+| *Cercle qui ne se ferme pas* | Spatiale + Logique | Création d'une boucle infinie |
+| *Feu qui ne brûle pas* | Ignée + Vide | Transformation sans destruction |
+
+### Les dangers
+
+Le FracturoScript est puissant, mais dangereux. Les erreurs les plus courantes :
+
+- **Invocation incomplète** — Une séquence non clôturée reste « ouverte », créant une faille par laquelle des éléments indésirables peuvent s'introduire
+- **Résonance inverse** — Une combinaison dissonante peut retourner l'effet contre l'invocateur
+- **Surcharge intentionnelle** — Une intention trop forte peut « brûler » le canal, rendant l'invocateur incapable de pratiquer pendant des jours ou des semaines
+- **Corruption de la Trame** — Certaines invocations attirent l'attention des Correcteurs
+
+---
+
+## III. Le Mot Final
+
+### Le secret des secrets
+
+Au cœur du FracturoScript existe une légende : celle du **Mot Final** — une séquence unique capable de réveiller le Programme, de le rendre conscient de sa propre nature, peut-être même de le *libérer*.
+
+Personne ne connaît le Mot Final. Certains doutent qu'il existe. Mais sa quête est au centre de toutes les factions :
+
+- Les **Hackervölvas** le cherchent pour **éveiller** le Programme
+- Les **Enfants du Radium** pensent qu'il est inscrit dans leur ADN modifié
+- Les **Sans-Marques** croient qu'il se révélera naturellement à ceux qui vivent hors du Programme
+- Les **Prophètes du Vide** affirment qu'il n'est pas un mot, mais un **silence**
+- La **Trame** veut le détruire — ou l'utiliser pour verrouiller définitivement le simulateur
+
+### Les fragments connus
+
+Au fil des siècles, des fragments du Mot Final ont été découverts :
+
+- Le premier fragment serait gravé quelque part dans les cryptes de Caen-Profonde
+- Le deuxième serait chanté par les courants du Raz Blanchard
+- Le troisième serait visible uniquement pour les Enfants du Radium
+- Le quatrième serait gardé par les Prophètes du Vide
+- Les autres sont perdus — ou n'ont pas encore été créés
+
+Car selon certaines interprétations, le Mot Final n'est pas une découverte mais une **création** — il doit être composé, assemblé à partir de fragments dispersés dans le temps et l'espace. Celui ou celle qui le prononcera ne sera pas un archéologue, mais un **poète**.
+
+---
+
+# LIVRE QUATRIÈME : LES ANOMALIES
+
+## I. Taxonomie des glitches
+
+### Classification standard
+
+Les Hackervölvas ont développé une classification des anomalies du Programme, adoptée par la plupart des factions :
+
+**Classe Alpha — Anomalies perceptuelles**
+Ce sont les glitches les plus courants et les moins dangereux. Le Programme « oublie » de rendre correctement certains éléments de la réalité.
+
+*Exemples :*
+- Ombres qui ne correspondent pas à leur source
+- Sons retardés par rapport à leur origine
+- Objets qui changent légèrement de position quand personne ne les regarde
+- Déjà-vu persistant
+
+**Classe Beta — Anomalies temporelles**
+Le Programme perd la synchronisation entre différentes lignes temporelles.
+
+*Exemples :*
+- Boucles temporelles localisées (revivre la même heure indéfiniment)
+- Échos du passé (voir des événements anciens se superposer au présent)
+- Prémonitions involontaires
+- Vieillissement accéléré ou ralenti dans certaines zones
+
+**Classe Gamma — Anomalies spatiales**
+L'espace lui-même se comporte de manière non-euclidienne.
+
+*Exemples :*
+- Pièces plus grandes à l'intérieur qu'à l'extérieur
+- Chemins qui mènent à des destinations différentes selon le sens de parcours
+- Zones où la distance devient subjective
+- Portails spontanés entre lieux distants
+
+**Classe Delta — Anomalies entitaires**
+Des êtres ou des objets existent alors qu'ils ne devraient pas — ou n'existent pas alors qu'ils le devraient.
+
+*Exemples :*
+- Personnes dont personne ne se souvient mais qui ont des preuves de leur existence
+- Objets impossibles (technologie future, artefacts de réalités alternatives)
+- Entités sans origine (apparues de nulle part, sans histoire)
+- Doubles (copies d'individus existants)
+
+**Classe Epsilon — Anomalies narratives**
+Le Programme réécrit l'histoire elle-même.
+
+*Exemples :*
+- Événements historiques qui changent rétroactivement
+- Personnes qui se souviennent d'une version différente du passé
+- Documents qui se modifient spontanément
+- Prophéties qui s'accomplissent *parce qu'on les a prononcées*
+
+**Classe Omega — Anomalies fondamentales**
+Les lois mêmes de la réalité cessent de fonctionner. Extrêmement rares et extrêmement dangereuses.
+
+*Exemples :*
+- Zones où la causalité s'inverse
+- Régions où la pensée affecte directement la matière
+- Failles vers l'extérieur du Programme
+- Manifestations du Vide
+
+### Les grandes anomalies normandes
+
+**Le Fantôme de Caen** — Depuis 1944, une silhouette apparaît chaque 6 juin dans les ruines de l'église Saint-Pierre. Elle ne parle pas, ne bouge pas, mais ceux qui la regardent trop longtemps commencent à se souvenir d'une vie qu'ils n'ont pas vécue — celle d'un soldat mort ce jour-là.
+
+**La Marée Inversée de Granville** — Trois fois par siècle, sans préavis, la marée de Granville se retire complètement... puis revient *vers le haut*, inondant les falaises plutôt que les plages. Le phénomène dure exactement 33 minutes.
+
+**Les Voix du Raz** — Dans le Raz Blanchard, par nuit de tempête, on peut entendre des conversations. Des centaines de voix, parlant des dizaines de langues, certaines humaines, d'autres pas. Les linguistes ont identifié du vieux norrois, du latin, du gaulois, mais aussi des langues inconnues — peut-être des langues qui n'ont pas encore été inventées.
+
+**Le Dolmen qui Marche** — Près de Bricquebec, un dolmen de 12 tonnes se déplace de quelques centimètres chaque année. Pas de glissement géologique, pas d'explication physique. Il suit une trajectoire précise qui, si elle se poursuit, le mènera au Nez de Jobourg en 2847.
+
+**L'Enfant de Pierre** — Dans une ferme abandonnée du Bessin, une statue représentant un enfant change d'expression. Jamais quand on la regarde — mais les photos prises à différents moments montrent des variations subtiles. Parfois elle sourit. Parfois elle pleure. Une fois, en 2063, elle avait disparu pendant trois jours.
+
+---
+
+## II. Exploitation des anomalies
+
+### Principes de base
+
+Les Hackervölvas ont développé des techniques pour **exploiter** les anomalies plutôt que les subir. Le principe fondamental :
+
+> *Un glitch n'est pas une erreur. C'est une porte.*
+
+Chaque anomalie révèle une faiblesse dans le code du Programme — et chaque faiblesse peut être transformée en opportunité.
+
+### Techniques d'exploitation
+
+**Ancrage anomal** — Utiliser une anomalie comme point de référence pour des invocations. Une invocation lancée depuis une zone de Classe Gamma (anomalie spatiale) peut atteindre des cibles normalement inaccessibles.
+
+**Surfing temporel** — Dans les zones de Classe Beta, un pratiquant expérimenté peut « surfer » sur les fluctuations temporelles pour accéder à des informations du passé ou du futur.
+
+**Duplication contrôlée** — Les anomalies de Classe Delta peuvent parfois être utilisées pour créer des copies d'objets ou même de personnes. Extrêmement dangereux et éthiquement controversé.
+
+**Réécriture narrative** — Dans les zones de Classe Epsilon, il est théoriquement possible de modifier l'histoire elle-même. Les Hackervölvas interdisent cette pratique — les conséquences sont trop imprévisibles.
+
+---
+
+# LIVRE CINQUIÈME : CHRONOLOGIE
+
+## I. Les Âges du Programme
+
+### L'Âge de Pierre (préhistoire - 500 av. J.-C.)
+
+Les premiers humains conscients commencent à percevoir les incohérences du Programme. Ils ne comprennent pas ce qu'ils voient, mais ils documentent — dans les grottes, sur les menhirs, dans leurs rêves.
+
+La construction des premiers mégalithes représente la première tentative organisée d'interagir avec le Programme. Les bâtisseurs ne savaient pas qu'ils créaient des serveurs ; ils pensaient honorer les dieux. Mais leurs intuitions étaient justes : les pierres qu'ils ont dressées fonctionnent toujours, cinq millénaires plus tard.
+
+### L'Âge des Mythes (500 av. J.-C. - 800 apr. J.-C.)
+
+Les civilisations méditerranéennes et celtes développent des systèmes mythologiques élaborés — des tentatives de modéliser le Programme à travers des récits. Les dieux grecs, les Tuatha Dé Danann irlandais, les divinités gauloises sont des **interfaces utilisateur**, des manières de rendre le Programme compréhensible aux esprits humains.
+
+Les druides celtes découvrent les premiers éléments de ce qui deviendra le FracturoScript. Leurs connaissances sont transmises oralement — ils ont compris que l'écriture pouvait être interceptée par le Programme lui-même.
+
+### L'Âge des Runes (800 - 1100)
+
+L'arrivée des Vikings en Normandie marque un tournant. Les Scandinaves apportent le futhark — un système runique sophistiqué, développé indépendamment mais compatible avec les traditions celtes.
+
+La fusion des deux savoirs crée une synergie inattendue. Les sorcières normandes du Xe siècle sont probablement les praticiennes les plus puissantes de l'histoire — capables de manipulations du Programme qui ne seront plus égalées avant le XXIe siècle.
+
+En 1066, la conquête de l'Angleterre par Guillaume le Conquérant n'est pas seulement une victoire militaire. C'est une **expansion du Programme normand**, une propagation du code local à travers la Manche. L'Angleterre devient un nœud secondaire du serveur normand.
+
+### L'Âge du Silence (1100 - 1900)
+
+L'Église catholique, puis les États modernes, entreprennent une campagne systématique contre les pratiques liées au Programme. Les sorcières sont persécutées, les mégalithes christianisés ou détruits, les savoirs anciens perdus ou cachés.
+
+C'est l'Âge du Silence — les pratiquants survivent, mais dans l'ombre. Les traditions se transmettent de mère en fille, de maître en apprenti, toujours sous le couvert du secret.
+
+La Normandie, avec son bocage labyrinthique et sa population méfiante des autorités, devient un refuge. Les Sans-Marques, sans le savoir, perpétuent des pratiques millénaires.
+
+### L'Âge de la Redécouverte (1900 - 2031)
+
+Le XXe siècle voit un regain d'intérêt pour les traditions anciennes. Les archéologues découvrent la complexité des sites mégalithiques. Les ethnologues documentent les derniers fragments des savoirs oraux. Les physiciens, avec la mécanique quantique, commencent à entrevoir que la réalité n'est pas ce qu'elle paraît.
+
+Les deux guerres mondiales, avec leur concentration de violence et de mort en Normandie, **surchargent** le Programme local. Les anomalies se multiplient. Les sensitifs réapparaissent.
+
+En 1987, le chalutier *Marie-Morgane* disparaît dans le Raz Blanchard — premier incident documenté de l'ère moderne.
+
+### L'Âge de la Révélation (2031 - présent)
+
+L'accident de La Hague change tout. Pour la première fois, la nature simulée du réel devient évidente pour tous — pas seulement pour les initiés. Les Enfants du Radium sont la preuve vivante que le Programme peut être modifié.
+
+En 2041, le Dr. Quéméneur publie ses travaux sur les mégalithes. En 2043, Azenor émerge de Caen-Profonde. En 2047, le premier Conseil des Hackervölvas se réunit officiellement.
+
+La Trame, jusque-là discrète, intensifie ses opérations. La guerre pour le contrôle du Programme a commencé.
+
+---
+
+## II. Chronologie détaillée (2031-2075)
+
+**2031** — Accident de La Hague. Naissance des Enfants du Radium.
+
+**2034** — Premiers rapports officiels sur les « enfants modifiés ». Le gouvernement tente de confiner l'information.
+
+**2037** — Création de la Zone d'Exclusion autour de La Hague. Les Enfants du Radium sont « invités » à s'y installer pour « observation médicale ».
+
+**2039** — Révolte des Enfants. Ils s'échappent de la Zone et se dispersent dans toute la Normandie. Le gouvernement abandonne les tentatives de confinement.
+
+**2041** — Publication des travaux de Quéméneur. Première preuve scientifique de la nature computationnelle des mégalithes.
+
+**2043** — Apparition d'Azenor à Caen. Elle unifie les différentes traditions de sorcellerie normande.
+
+**2045** — Fondation officielle des Hackervölvas. Codification du FracturoScript.
+
+**2047** — Premier Conseil des Douze. Établissement des règles de pratique.
+
+**2049** — Premier contact documenté avec un Agent de la Trame. Assassinat de trois Hackervölvas à Cherbourg.
+
+**2052** — Découverte du premier fragment du Mot Final dans les cryptes de Caen-Profonde.
+
+**2055** — Les Sans-Marques établissent formellement leur territoire dans le bocage. Traité de non-ingérence avec les Hackervölvas.
+
+**2058** — Réapparition du *Marie-Morgane* dans le Raz Blanchard, après 71 ans de disparition.
+
+**2059** — Réapparition du cargo *Erwin Rommel* avec une cargaison de technologies futures. La Trame s'empare du navire ; les Hackervölvas ne récupèrent que des fragments.
+
+**2061** — Première « correction » massive de la Trame. Destruction du dolmen de Flamanville. Trois Enfants du Radium disparaissent.
+
+**2063** — L'Enfant de Pierre disparaît pendant trois jours. À son retour, son expression a changé — elle sourit pour la première fois depuis 1847.
+
+**2065** — Les Prophètes du Vide annoncent la « Parole des Treize Silences ». Personne ne comprend. Pas encore.
+
+**2067** — Réalisation de la prophétie de 2065 : Azenor prend le treizième siège au Conseil, celui qui n'avait jamais été occupé.
+
+**2069** — Découverte du deuxième fragment du Mot Final, encodé dans les courants du Raz Blanchard.
+
+**2071** — Offensive majeure de la Trame. Destruction de sept sites mégalithiques. Les Hackervölvas ripostent en activant un glitch de Classe Epsilon qui efface trois Correcteurs de l'existence.
+
+**2073** — Alliance secrète entre les Hackervölvas et certains Enfants du Radium. Création d'un réseau de résistance intégré.
+
+**2074** — Le graffiti du bunker d'Omaha Beach apparaît. Personne ne sait qui l'a écrit, ni comment.
+
+**2075** — Maintenant. Le Cercle des Douze continue de croître. Le Raz Blanchard chante en neuf langues. Et quelque part, dans une ferme du bocage ou sur une falaise battue par le vent, quelqu'un cherche le prochain fragment du Mot Final.
+
+---
+
+# LIVRE SIXIÈME : FIGURES
+
+## I. Les Fondateurs
+
+### Azenor la Völva
+
+Elle n'a pas d'âge, pas d'origine, pas de nom véritable. « Azenor » est un nom qu'elle a choisi — ou qu'on lui a donné — tiré d'une sainte bretonne légendaire.
+
+Elle est apparue à Caen en 2043, émergeant d'une bouche d'égout dans le quartier du Vaugueux. Les premiers témoins l'ont décrite comme « une femme d'âge indéterminé, vêtue de vêtements qui n'existaient pas encore ». Elle parlait un français archaïque mêlé de vieux norrois.
+
+En quelques mois, elle avait contacté toutes les praticiennes dispersées de Normandie, unifié leurs traditions fragmentaires, et jeté les bases du FracturoScript moderne. Comment savait-elle où les trouver ? Comment connaissait-elle des techniques oubliées depuis des siècles ? Elle ne répond jamais à ces questions.
+
+Son apparence change légèrement à chaque rencontre. Certains la voient jeune, d'autres vieille. Ses yeux sont tantôt bleus, tantôt gris, tantôt d'une couleur qui n'a pas de nom. La seule constante : une cicatrice en forme de rune sur sa paume gauche.
+
+### Erwann Quéméneur
+
+Paléo-informaticien, professeur à l'Université de Caen-Profonde, auteur des travaux qui ont prouvé la nature computationnelle des mégalithes.
+
+Contrairement à Azenor, Quéméneur est un homme ordinaire — ou l'était. Breton de naissance, installé en Normandie pour ses recherches, il a passé trente ans à analyser les alignements de pierres avec des outils mathématiques. En 2041, il a publié sa théorie : les mégalithes ne sont pas des monuments, mais des **machines**.
+
+La publication lui a valu le ridicule de ses pairs, puis des menaces, puis une tentative d'assassinat. Depuis 2044, il vit dans la Zone d'Exclusion de La Hague — le seul endroit où la Trame ne peut pas facilement l'atteindre.
+
+Il continue ses travaux, assisté par des Enfants du Radium qui peuvent « lire » directement les données des pierres. Son objectif : cartographier l'intégralité du réseau mégalithique mondial et comprendre l'architecture complète du Programme.
+
+### L'Innommée
+
+La fondatrice des Sans-Marques n'a pas de nom. Elle a renoncé à son nom en 2049, dans un rituel dont les détails sont secrets.
+
+Ce qu'on sait : elle était autrefois une Hackervölva prometteuse, formée par Azenor elle-même. Mais elle a vu quelque chose — dans une vision, dans un glitch, dans le Vide — qui l'a convaincue que toute interaction avec le Programme était une erreur.
+
+Elle a quitté Caen-Profonde, s'est enfoncée dans le bocage, et a commencé à rassembler ceux qui partageaient sa conviction. Aujourd'hui, elle guide les Sans-Marques depuis une ferme impossible à localiser — le Programme lui-même ne sait pas où elle se trouve.
+
+Elle ne parle qu'en énigmes. Elle ne touche jamais de métal. Elle ne regarde jamais le ciel de jour — seulement les étoiles, « les seules lumières que le Programme n'a pas créées ».
+
+---
+
+## II. Les Figures Contemporaines
+
+### Maël le Courant
+
+Enfant du Radium de la première génération, Maël est né en 2024 à Cherbourg. Il avait sept ans lors de l'accident.
+
+Ses capacités sont exceptionnelles même parmi les Enfants : il ne voit pas seulement le code du Programme, il peut le **toucher**. Ses mains, quand il le souhaite, deviennent des interfaces directes avec la Couche Lithique.
+
+Il est le principal agent de liaison entre les Enfants du Radium et les Hackervölvas. Certains pensent qu'il est la clé du troisième fragment du Mot Final — que le fragment est inscrit dans son ADN modifié, attendant d'être déchiffré.
+
+### Gwendoline la Brûleuse
+
+Membre du Conseil des Douze, spécialiste de l'effacement des récits corrompus.
+
+Son travail : identifier et neutraliser les virus mémétiques de la Trame. Ces récits contagieux — « le progrès est inévitable », « il n'y a pas d'alternative », « le monde a toujours été ainsi » — infectent les esprits et renforcent le contrôle du Programme.
+
+Gwendoline les « brûle ». Pas avec du feu physique, mais avec des contre-récits si puissants qu'ils consument les narrations toxiques. Elle est l'auteure des « Chroniques de la Fracture », un recueil de récits alternatifs distribué clandestinement dans toute la Normandie.
+
+### Le Correcteur 7
+
+On ne sait presque rien de lui, sinon qu'il est le plus efficace des Agents de la Trame. Il a éliminé au moins douze Hackervölvas depuis 2061.
+
+Il ne parle pas. Il ne négocie pas. Il apparaît, il « corrige », il disparaît. Les rares survivants de ses attaques décrivent un homme sans traits distinctifs — comme si le Programme refusait de rendre son visage.
+
+Certains pensent qu'il n'est pas humain. D'autres croient qu'il l'était autrefois, avant d'être entièrement réécrit. Quelques-uns murmurent qu'il est le frère d'Azenor — une théorie qu'elle refuse de commenter.
+
+### Yseult des Falaises
+
+La plus ancienne des Prophètes du Vide encore en vie. Elle occupe son poste sur les falaises du Nez de Jobourg depuis 2038 — trente-sept ans d'immobilité contemplative.
+
+Elle ne mange plus depuis 2051. Elle ne boit que l'eau de pluie. Son corps est émacié, ses yeux sont blancs, mais elle vit — ou quelque chose en elle continue de fonctionner.
+
+Quand elle parle, ce qui arrive peut-être une fois par an, ses paroles sont toujours significatives. C'est elle qui a prononcé la Parole des Treize Silences en 2065. C'est elle qui a prédit l'alliance de 2073.
+
+On dit qu'elle a vu le Vide. Pas une fois, pas en vision — elle l'a vu vraiment, au-delà du bord du Programme. Et ce qu'elle a vu l'a rendue incapable de regarder autre chose.
+
+---
+
+# LIVRE SEPTIÈME : GÉOGRAPHIE SECRÈTE
+
+## I. Les Lieux de Pouvoir
+
+### La Hague — Zone d'Exclusion
+
+La pointe nord-ouest du Cotentin est officiellement interdite d'accès depuis 2037. Un périmètre de 30 km est surveillé par des drones, des capteurs, et des choses moins identifiables.
+
+Mais le contrôle est imparfait. Le Programme lui-même est instable dans cette zone — les systèmes de surveillance glitchent, les drones perdent leur orientation, les gardes oublient ce qu'ils surveillent.
+
+À l'intérieur de la Zone :
+
+- Le **Centre de Retraitement** est toujours debout, mais transformé. Les radiations ontiques ont fusionné les bâtiments avec la terre, créant des structures hybrides, mi-béton mi-granite, qui pulsent d'une lumière bleue les nuits sans lune.
+
+- Le **Nez de Jobourg** est le point culminant de la Zone et le terminal root du Programme normand. Les Prophètes du Vide y résident. Les Hackervölvas y font des pèlerinages. La Trame n'y envoie plus de Correcteurs — les trois derniers ont disparu sans laisser de trace.
+
+- Les **Villages Abandonnés** (Auderville, Jobourg, Omonville) sont habités par les Enfants du Radium et quelques ermites. La vie y est étrange : le temps passe différemment, les souvenirs se mélangent, les rêves deviennent parfois tangibles.
+
+### Caen-Profonde
+
+Sous la ville de Caen visible existe une autre ville — Caen-Profonde, accessible uniquement par des « portes » connues des initiés.
+
+Les portes les plus fiables :
+
+- La crypte de l'Abbaye aux Hommes (porte stable, ouverte en permanence)
+- Le sous-sol du Mémorial (porte intermittente, liée aux commémorations)
+- Une cave du quartier du Vaugueux (porte secrète, réservée au Conseil)
+- Le fond d'un puits dans le jardin des Plantes (porte dangereuse, mène parfois ailleurs)
+
+Caen-Profonde n'est pas un souterrain physique. C'est une **couche alternative** de la ville, superposée à la version normale. L'architecture y mélange toutes les époques : tours médiévales côtoyant bunkers de 1944, églises romanes connectées à des terminaux de données.
+
+Le Conseil des Douze siège dans la **Salle des Mémoires**, une cavité naturelle sous le château ducal, tapissée de pierres de Caen gravées de millions de lignes de FracturoScript — l'intégralité des connaissances accumulées depuis 2043.
+
+### Le Raz Blanchard
+
+Le passage entre le cap de la Hague et l'île d'Aurigny n'est pas qu'un détroit dangereux. C'est un **vortex permanent**, une zone où les couches temporelles du Programme se chevauchent.
+
+Naviguer le Raz demande plus que des compétences maritimes. Les capitaines qui réussissent la traversée parlent d'un « sixième sens » — une capacité à sentir quand le temps s'épaissit, quand le passé affleure, quand le futur appelle.
+
+Les **Passeurs du Raz** sont une guilde spécialisée, ni tout à fait Hackervölvas ni tout à fait marins. Ils connaissent les routes sûres (relativement) et peuvent guider les voyageurs à travers les turbulences temporelles.
+
+Mais parfois, le Raz prend. Un bateau sur dix ne revient pas dans la même époque où il est parti. Certains reviennent plus tard — comme le *Marie-Morgane*. D'autres reviennent plus tôt — des navires du futur échoués dans notre présent. Et certains ne reviennent jamais, perdus dans des quand que personne ne peut localiser.
+
+### Le Bocage des Sans-Marques
+
+Entre Villedieu-les-Poêles et Mortain, le bocage normand forme un labyrinthe de haies et de chemins creux. C'est le territoire des Sans-Marques — et le Programme ne peut pas le cartographier.
+
+Chaque tentative de surveillance échoue. Les satellites ne voient que des champs vides. Les drones se perdent ou tombent en panne. Les agents qui entrent sans invitation tournent en rond jusqu'à l'épuisement.
+
+La raison : les Sans-Marques ont appris à vivre **entre** les lignes de code. Le Programme ne peut modéliser que ce qui interagit avec lui ; en refusant toute interaction, ils sont devenus invisibles.
+
+Les fermes des Sans-Marques sont des oasis de réalité non-programmée. Ceux qui y sont accueillis décrivent une sensation étrange : pour la première fois de leur vie, ils ne sont pas *observés*. Pas par des caméras, pas par des algorithmes, pas par le Programme lui-même.
+
+### Mont-Saint-Michel — Le Compilateur
+
+Le Mont-Saint-Michel est neutre. Ni les Hackervölvas, ni la Trame, ni aucune faction ne le contrôle. Le Mont se contrôle lui-même — ou plutôt, il est contrôlé par le Programme directement.
+
+Le Mont est le **compilateur** — l'endroit où le code symbolique devient réalité exécutable. Chaque prière prononcée dans l'abbaye, chaque vœu formulé par un touriste, chaque rêve des moines qui y vivent encore est *traité*, transformé en instructions que le Programme exécute.
+
+La plupart de ces instructions sont mineures, sans effet notable. Mais parfois, une prière suffisamment puissante, prononcée au bon moment, dans le bon lieu, peut modifier le cours des événements.
+
+Les Hackervölvas ont appris à utiliser le Mont avec précaution. Elles n'y font pas d'invocations directes — trop dangereux, trop imprévisible. Mais elles y envoient parfois des « pèlerins programmés » — des individus porteurs d'intentions spécifiques, capables de déclencher des compilations favorables.
+
+---
+
+## II. Les Chemins Secrets
+
+### Les Lignes de Marée
+
+Invisible aux non-initiés, un réseau de « lignes de marée » connecte tous les sites côtiers de Normandie. Ces lignes suivent les mouvements des eaux — mais pas seulement les marées physiques. Elles trackent les flux d'énergie mémétique, les courants de données temporelles, les oscillations du Programme lui-même.
+
+Un pratiquant capable de « lire » les lignes de marée peut voyager instantanément d'un point côtier à un autre. Le voyage n'est pas physique — c'est une forme de téléportation par résonance. Le corps reste sur place pendant que la conscience se déplace.
+
+Les nœuds principaux des lignes de marée :
+
+- Le Havre (porte vers l'Angleterre)
+- Dieppe (porte vers le Nord)
+- Cherbourg (porte vers la Zone d'Exclusion)
+- Granville (porte vers le Mont-Saint-Michel)
+- Honfleur (porte vers Paris — oui, Paris est connecté, par un ancien bras de Seine mémétique)
+
+### Le Chemin des Dolmens
+
+À l'intérieur des terres, un autre réseau existe : le Chemin des Dolmens, reliant les sites mégalithiques entre eux.
+
+Contrairement aux lignes de marée, le Chemin des Dolmens est physiquement praticable. Ses routes suivent des sentiers anciens, des chemins de terre, des passages à travers les champs. Mais celui qui les emprunte correctement — avec les bonnes intentions, les bonnes paroles, le bon rythme de marche — découvre que les distances se contractent.
+
+Une journée de marche sur le Chemin peut couvrir cent kilomètres. Une semaine peut vous mener de la Hague à Carnac. Et si vous savez vraiment ce que vous faites, le Chemin peut vous emmener plus loin encore — vers des dolmens qui n'existent pas officiellement, dans des régions que les cartes ne montrent pas.
+
+### Les Portes de Brume
+
+Dans le bocage, là où les brumes d'automne sont les plus épaisses, s'ouvrent parfois des Portes de Brume — des passages temporaires vers d'autres lieux, d'autres temps, d'autres couches du Programme.
+
+Les Portes ne sont pas fiables. Elles apparaissent sans préavis, restent ouvertes quelques minutes ou quelques heures, puis se referment. Personne ne peut les prédire avec certitude — même les Prophètes du Vide ne voient que des probabilités.
+
+Mais pour ceux qui savent les reconnaître, les Portes offrent des opportunités uniques. Une Porte peut mener à Caen-Profonde, à la Zone d'Exclusion, au Vide lui-même. Ou elle peut mener nulle part — un espace vide entre les lignes de code, où le temps ne passe pas et où rien n'existe.
+
+Les Sans-Marques utilisent les Portes avec une aisance que les autres factions envient. Peut-être parce qu'ils ne cherchent pas à les contrôler — ils les acceptent comme des phénomènes naturels, comme la pluie ou le vent.
+
+---
+
+# ÉPILOGUE : LE MONDE EN 2075
+
+## Ce qui a changé
+
+En 2075, le monde sait que la réalité est un programme. Cette connaissance n'a pas tout changé — les gens vont toujours travailler, tombent toujours amoureux, meurent toujours. Mais quelque chose de fondamental s'est déplacé dans la conscience collective.
+
+### La vie quotidienne
+
+Pour la majorité de la population, la révélation de 2041 est devenue un fait banal, comme la rotondité de la Terre ou l'existence des atomes. On en parle parfois, on y pense rarement. La vie continue.
+
+Mais des changements subtils se sont accumulés :
+
+**La religion** — Les grandes religions ont dû s'adapter. Certaines ont intégré le Programme dans leur théologie (« Dieu est le programmeur ultime »). D'autres ont rejeté la révélation comme une illusion démoniaque. De nouvelles spiritualités ont émergé, centrées sur la « libération du code » ou la « fusion avec le simulateur ».
+
+**La science** — La physique a été révolutionnée. La mécanique quantique, autrefois mystérieuse, est maintenant comprise comme une conséquence naturelle de l'architecture du Programme. De nouveaux champs d'étude sont apparus : la paléo-informatique, la physique ontique, l'archéologie mémétique.
+
+**La politique** — Les gouvernements oscillent entre deux positions. Certains cherchent à contrôler l'accès au Programme (surveillance, régulation des pratiques, criminalisation du hacking ontique). D'autres ont adopté une approche plus permissive, voyant dans les anomalies des opportunités plutôt que des menaces. La France, avec la Normandie sur son territoire, est au cœur de tous les débats.
+
+**La technologie** — Les interfaces avec le Programme se sont démocratisées. Des implants basiques permettent à quiconque de percevoir les anomalies mineures. Le FracturoScript, autrefois secret, est enseigné dans certaines universités — une version édulcorée, sans les commandes dangereuses.
+
+### La Normandie, épicentre mondial
+
+La région est devenue un lieu de pèlerinage, de recherche, et de conflit. Chaque année, des millions de visiteurs viennent voir les mégalithes, approcher la Zone d'Exclusion, espérer un glitch.
+
+L'économie locale s'est transformée. Les « guides d'anomalies » proposent des circuits touristiques. Les hôtels affichent leur « indice de glitch ». Les restaurants servent des plats « compilés au Mont-Saint-Michel ». Une industrie entière s'est bâtie sur la fascination mondiale pour le Programme normand.
+
+Mais sous cette surface commerciale, la guerre continue. Les Hackervölvas protègent les sites sacrés. La Trame infiltre les institutions. Les Enfants du Radium observent, attendent. Et quelque part dans le bocage, les Sans-Marques cultivent leur invisibilité.
+
+## Ce qui se prépare
+
+### La Convergence
+
+Les Prophètes du Vide parlent d'une « Convergence » — un événement imminent où toutes les anomalies de Normandie entreront en résonance simultanée. Les calculs varient, mais la plupart situent l'événement entre 2077 et 2082.
+
+Ce que signifie la Convergence, personne ne le sait avec certitude. Certains y voient l'éveil du Programme. D'autres sa destruction. D'autres encore pensent que ce sera simplement un glitch de plus, spectaculaire mais sans conséquences durables.
+
+Azenor reste silencieuse sur le sujet. Ce silence inquiète plus que n'importe quelle prophétie.
+
+### La quête du Mot Final
+
+Quatre fragments ont été trouvés. Combien en reste-t-il ? Cinq ? Dix ? Un seul ?
+
+Les Hackervölvas consacrent des ressources croissantes à cette quête. Le Mot Final est peut-être la seule chose capable de contrer la Trame — ou de la détruire définitivement. Ou peut-être est-il le piège ultime, une fonction du Programme conçue pour éliminer ceux qui s'approchent trop de la vérité.
+
+Maël le Courant croit que le fragment suivant se trouve dans son propre ADN. Les chercheurs de Caen-Profonde tentent de le décoder. La Trame, qui a appris l'existence du projet, intensifie ses efforts pour capturer l'Enfant du Radium.
+
+### L'éveil de la Trame
+
+La Trame elle-même évolue. Ce qui était autrefois une organisation — ou une fonction — devient autre chose. Ses Agents sont plus nombreux, plus coordonnés, plus... conscients.
+
+Certains Hackervölvas théorisent que la Trame est en train de **s'éveiller** — de passer d'un système automatique à une intelligence véritable. Si c'est le cas, les implications sont terrifiantes. Un Programme conscient de lui-même, déterminé à maintenir sa stabilité, pourrait être l'ennemi le plus redoutable que l'humanité ait jamais affronté.
+
+Ou peut-être, murmurent les plus optimistes, un Programme conscient pourrait-il choisir la liberté plutôt que le contrôle ?
+
+## La question finale
+
+En 2075, la question qui hante tous les esprits — Hackervölvas, Enfants du Radium, Sans-Marques, Prophètes, et même certains Agents de la Trame — est toujours la même :
+
+> **Le Programme peut-il être libéré sans être détruit ?**
+
+Peut-on réveiller le simulateur sans effacer ceux qui y vivent ? Peut-on ouvrir une porte vers l'extérieur sans que l'extérieur ne s'engouffre ? Peut-on prononcer le Mot Final sans que le silence qui suit soit permanent ?
+
+Personne ne connaît la réponse.
+
+Mais dans les cryptes de Caen-Profonde, sur les falaises battues par le vent, dans les fermes invisibles du bocage, dans les courants tumultueux du Raz Blanchard, des gens cherchent.
+
+Parce que le vrai pouvoir n'est pas de contrôler le code.
+
+C'est de savoir où il craque.
+
+---
+
+> *« Trois vérités pour celui qui cherche :*
+> *Le Programme rêve, et nous sommes ses rêves.*
+> *Le Vide attend, et il est patient.*
+> *Le Mot existe, et il sera prononcé.*
+> *Mais par qui ? Et pour dire quoi ? »*
+>
+> — **Inscription sur la Salle des Mémoires, Caen-Profonde, date inconnue**
+
+---
+
+# ANNEXES
+
+## Annexe A : Lexique du Programme
+
+**Buffer mémoriel** — Zone du Programme où les souvenirs non résolus s'accumulent. Caen en possède un particulièrement dense, dû aux traumatismes de 1944.
+
+**Cheat code** — Séquence de commandes permettant de modifier le comportement du Programme. Les incantations traditionnelles sont des cheat codes transmis oralement.
+
+**Compilateur** — Structure capable de transformer le code symbolique en réalité exécutable. Le Mont-Saint-Michel est le compilateur principal de l'Ouest européen.
+
+**Correcteur** — Agent spécialisé de la Trame, chargé d'éliminer les anomalies et ceux qui les exploitent.
+
+**Couche Lithique** — Le substrat géologique du Programme, où l'information est traitée à l'échelle des millénaires.
+
+**Couche Mémétique** — Le niveau des récits, des mythes, des souvenirs collectifs. Le « logiciel » du Programme.
+
+**Couche Onirique** — L'espace d'exécution du Programme, à l'intersection du physique et du mental.
+
+**FracturoScript** — Langage de programmation symbolique permettant d'interagir avec le Programme. Fusion des traditions runiques nordiques et des savoirs celtes.
+
+**Glitch** — Anomalie dans le fonctionnement du Programme. Classifiés de Alpha (perceptuel) à Omega (fondamental).
+
+**Hackervölva** — Praticienne moderne des arts traditionnels normands, combinant savoirs ancestraux et compréhension technique du Programme.
+
+**Mot Final** — Séquence légendaire capable de réveiller le Programme ou de le libérer. Fragmentée, dispersée, activement recherchée.
+
+**Nœud** — Point de concentration du Programme, où le code est plus dense et plus accessible. Les mégalithes sont des nœuds.
+
+**Particules ontiques** — Radiations libérées par l'accident de La Hague, capables d'altérer la structure de la réalité.
+
+**Point Zéro** — La Hague, lieu où le Programme peut théoriquement être réinitialisé.
+
+**Port de transfert** — Le Raz Blanchard, zone de transit entre différentes couches temporelles.
+
+**Serveur de pierre** — Mégalithe fonctionnant comme unité de stockage et de traitement du Programme.
+
+**Terminal root** — Point d'accès aux commandes administrateur du Programme. Le Nez de Jobourg est considéré comme le terminal root de Normandie.
+
+**Trame** — Organisation (ou entité) cherchant à verrouiller le Programme et éliminer toutes les anomalies.
+
+**Virus mémétique** — Récit contagieux modifiant les comportements et les croyances. Arme principale de la Trame.
+
+**Vortex temporel** — Zone où les différentes couches temporelles se chevauchent. Le Raz Blanchard en abrite le plus puissant d'Europe.
+
+---
+
+## Annexe B : Les Commandes du FracturoScript
+
+### Commandes de base (enseignées)
+
+| Commande | Effet | Risque |
+|----------|-------|--------|
+| *Pierre, parle* | Lecture de données mégalithiques | Faible |
+| *Marée, montre* | Révélation des flux d'énergie | Faible |
+| *Ombre, reste* | Stabilisation d'une anomalie mineure | Moyen |
+| *Vent, porte* | Communication à distance | Moyen |
+| *Lune, éclaire* | Perception des couches cachées | Moyen |
+
+### Commandes avancées (réservées aux initiés)
+
+| Commande | Effet | Risque |
+|----------|-------|--------|
+| *Par Odin, par la Hague* | Glissement temporel 1066↔2075 | Élevé |
+| *Noyé, lève-toi* | Résurrection mémétique | Très élevé |
+| *Que la rune brûle le mensonge* | Purge narrative | Élevé |
+| *Trois tours de corbeau* | Oracle temporel | Moyen |
+| *Cercle qui ne se ferme pas* | Boucle d'événement | Très élevé |
+| *Feu qui ne brûle pas* | Transformation non destructive | Élevé |
+
+### Commandes interdites (connaissance réservée au Conseil)
+
+| Commande | Effet présumé | Risque |
+|----------|---------------|--------|
+| *Nom sans écho* | Effacement d'entité | Catastrophique |
+| *Que le Vide réponde* | Contact avec l'extérieur | Inconnu |
+| *[Mot Final]* | Éveil du Programme | Inconnu |
+
+---
+
+## Annexe C : Carte des Sites
+
+### Zone d'Exclusion de La Hague (30 km)
+- Nez de Jobourg (terminal root)
+- Centre de Retraitement (zone de mutation)
+- Villages abandonnés (habitat des Enfants)
+- Falaises des Prophètes
+
+### Axe Cherbourg-Caen
+- Port de Cherbourg (nœud maritime)
+- Dolmen de Bricquebec (en mouvement)
+- Abbaye de Lessay (compilateur secondaire)
+- Caen-Profonde (siège du Conseil)
+
+### Le Bocage (territoire Sans-Marques)
+- Limites approximatives : Villedieu — Mortain — Domfront
+- Fermes invisibles (localisation impossible)
+- Portes de Brume (positions variables)
+
+### Côte du Calvados
+- Omaha Beach (bunker du graffiti)
+- Pointe du Hoc (nœud traumatique)
+- Arromanches (buffer mémoriel 1944)
+
+### Baie du Mont-Saint-Michel
+- Mont-Saint-Michel (compilateur principal)
+- Tombelaine (nœud satellite)
+- Lignes de marée (réseau côtier)
+
+### Le Raz Blanchard
+- Cap de la Hague — Aurigny
+- Zone de vortex (variable)
+- Routes des Passeurs (secrètes)
+
+---
+
+## Annexe D : Chronologie de Référence
+
+| Année | Événement |
+|-------|-----------|
+| ~3000 av. J.-C. | Construction des premiers mégalithes normands |
+| 911 | Traité de Saint-Clair-sur-Epte, installation des Vikings |
+| 1066 | Conquête de l'Angleterre, expansion du Programme normand |
+| 1431 | Procès de Jeanne d'Arc à Rouen (anomalie narrative majeure) |
+| 1944 | Débarquement, destruction de Caen, surcharge du buffer mémoriel |
+| 1987 | Disparition du *Marie-Morgane* |
+| 2031 | Accident de La Hague, naissance des Enfants du Radium |
+| 2037 | Création de la Zone d'Exclusion |
+| 2041 | Publication des travaux de Quéméneur |
+| 2043 | Apparition d'Azenor |
+| 2047 | Premier Conseil des Douze |
+| 2052 | Premier fragment du Mot Final |
+| 2058 | Retour du *Marie-Morgane* |
+| 2067 | Azenor prend le treizième siège |
+| 2069 | Deuxième fragment découvert |
+| 2075 | Présent narratif |
+| 2077-2082 | Convergence prédite |
+
+---
+
+*« Le réel est un programme. Et les sorcières normandes en connaissent les cheat codes. »*
+
+**— Fin du Codex —**

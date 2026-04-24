@@ -1,0 +1,148 @@
+**Lexique de Caen-Profonde et du Monde de 2075**  
+*À l’usage des RuneSmiths, hackers mémétiques, explorateurs oniriques et archivistes du réel fractal*  
+
+---
+
+### **A**
+
+**Archétype Glitché**  
+Variante instable d’un archétype jungien, corrompue par une infection linguistique ou un paleo-mème. Capable de modifier temporairement la perception d’un sujet exposé. Exemple : *La Mère Débranchée*, *L’Ombre en Boucle*.
+
+**Aura Mnémonique**  
+Champ électro-symbolique émis par les objets ou individus ayant été en contact prolongé avec un FracturoScript actif. Visible uniquement à travers des lunettes à lentilles runiques ou via l’interface neuro-sémantique *MnemoLens™*.
+
+---
+
+### **B**
+
+**Bande des 20 mètres**  
+Fréquence radio hertzienne (14 MHz) devenue, après l’Effondrement Sémantique de 2048, un canal privilégié pour la transmission de code onirique, de fragments de rêves partagés et de signaux mémétiques non filtrés par les protocoles de réalité consensus.
+
+**Bio-Runes**  
+Séquences ADN synthétiques gravées avec des peptides codant des symboles archaïques. Utilisées par les RuneSmiths pour greffer des mémoires ancestrales dans des organismes vivants — plantes, champignons mycéliens, ou même humains.
+
+---
+
+### **C**
+
+**Caen-Profonde**  
+Métropole fractale issue de la superposition de trois strates temporelles :  
+- *Caen Historique* (jusqu’à 1944),  
+- *Caen Techno-Bureaucratique* (1960–2040),  
+- *Caen Post-Sens* (2048–2075).  
+Chaque quartier vibre à une fréquence sémantique différente. Seuls les initiés (RuneSmiths, Oniro-Géographes) peuvent naviguer sans risque de *déréalisation locale*.
+
+**Code Cosmique**  
+Système sous-jacent de règles symboliques régissant la cohérence du réel. Non écrit, mais *gravé* dans la structure même du langage, des rêves et des mythes. Le Hacker Mémétique cherche à le lire, le corrompre, ou le réécrire.
+
+**Corruption du Sens**  
+Technique mémétique consistant à injecter une ambiguïté symbolique dans un concept stable (ex. : "liberté", "vérité") afin de provoquer une brèche dans la réalité consensuelle. Utilisée à la fois comme arme et comme outil d’éveil.
+
+---
+
+### **D**
+
+**DreamMesh**  
+Réseau décentralisé de rêves partagés, hébergé sur des clusters neuronaux biologiques cultivés dans les anciennes salles des serveurs d’Orange à Hérouville. Accessible via implants oniriques ou rituels de synchronisation chamanique.
+
+---
+
+### **F**
+
+**FracturoScript**  
+Langage de programmation symbolique hybride, mêlant syntaxe runique (Futhark), structures logiques cybernétiques et motifs paléolithiques (symboles de von Petzinger). Chaque ligne de code agit à la fois comme instruction informatique et comme incantation psychique. Exécutable sur systèmes classiques via interpréteur `memetique75.py`.
+
+**Fréquences Rêvées**  
+Bandes spectrales non détectables par les instruments standards, perçues uniquement pendant les phases REM ou sous l’effet de plantes psychoactives locales (notamment le *chanvre de Flers-Glotte*, modifié génétiquement pour émettre des ondes thêta).
+
+---
+
+### **G**
+
+**Glitch Mémétique**  
+Rupture temporaire dans la trame symbolique du réel, causée par l’activation simultanée de plusieurs paleo-mèmes antagonistes. Peut provoquer des phénomènes tels que : objets parlants, souvenirs étrangers, effondrement de la causalité locale.
+
+**Grimoire Numérique**  
+Base de données vivante, souvent hébergée sur un Raspberry Pi enfoui dans un dolmen ou scellé dans un bloc de béton radiologique. Contient des FracturoScripts, des cartes oniriques et des lexiques mémétiques (ex. : `paleo_mnemos_lexicon.json`).
+
+---
+
+### **H**
+
+**Hacker Mémétique**  
+Explorateur du Code Cosmique. À la fois poète, ingénieur, magicien et saboteur sémantique. Ne vole pas de données, mais **réécrit les conditions de possibilité du sens**. Porte souvent des lunettes à lentilles bifocales : une pour le code, l’autre pour les rêves.
+
+---
+
+### **L**
+
+**Lexique Paleo-Mnémotique**  
+Base symbolique structurée (souvent au format JSON) intégrant trois axes :  
+1. **Symboles de von Petzinger** (géométries paléolithiques),  
+2. **Runes du Futhark** (valeurs phonétiques et magiques),  
+3. **Archétypes jungiens** (rôles psychiques universels).  
+Utilisé pour générer des FracturoScripts capables d’agir directement sur l’inconscient collectif.
+
+**Linguistic Virus (Virus Linguistique)**  
+Séquence langagière autoréplicante conçue pour corrompre, parasiter ou réorienter un système de croyances. Peut se propager via parole, image, code ou rêve. Exemple célèbre : *Le Verbe de Beaumont*, qui transforme toute référence au "progrès" en impulsion vers la déconnexion.
+
+---
+
+### **M**
+
+**Master Code du Réel**  
+Mythe opératoire désignant l’ensemble des règles implicites qui maintiennent la stabilité du réel consensuel. Considéré par les RuneSmiths comme un programme en sommeil, codé dans les strates les plus anciennes du langage humain — et donc **piratable**.
+
+**MnemoForge**  
+Atelier clandestin où les RuneSmiths gravent, fondent et activent des objets mémétiques (plaques de cuivre, cristaux de quartz data-imbibés, peaux synthétiques). Souvent situé sous des ruines historiques ou dans des stations de métro désaffectées.
+
+---
+
+### **O**
+
+**Oniro-Géographe**  
+Spécialiste cartographiant les territoires du rêve collectif. Capable de localiser des "nœuds oniriques" — lieux où les rêves de plusieurs individus se superposent spontanément. Ces nœuds sont des points d’ancrage idéaux pour lancer des opérations de corruption mémétique.
+
+---
+
+### **P**
+
+**Paleo-Mème**  
+Unité minimale de mémoire symbolique héritée de l’humanité préhistorique, encore active dans l’inconscient profond. Résiste à toute forme de censure ou de déconstruction logique. Considéré comme **indestructible**, mais **réorientable** via gravure runique ou FracturoScript.
+
+**Pointe de Hague (2075)**  
+Zone interdite radiologique transformée en sanctuaire techno-chamanique. Les anciennes tours de refroidissement abritent des jardins mycéliens qui transmettent des rêves codés. Lieu de pèlerinage pour les RuneSmiths cherchant l’**Origine du Glitch**.
+
+---
+
+### **R**
+
+**RuneSmith**  
+Artisan-magicien du 21e siècle. Maîtrise l’art de graver des runes non pas dans la pierre, mais dans les **substrats du réel** : circuits imprimés, ADN, ondes radio, ou flux neuronaux. Son marteau est un stylo à plasma ; son enclume, un Raspberry Pi.
+
+---
+
+### **S**
+
+**Strate Temporelle**  
+Couche de réalité temporellement stabilisée, coexistant avec d’autres dans des zones à haute densité symbolique (comme Caen-Profonde). Passer d’une strate à l’autre nécessite une *clé de synchronisation* — souvent un mot, une rune, ou un rêve spécifique.
+
+---
+
+### **T**
+
+**Tkinter Runic GUI**  
+Interface graphique minimaliste, développée en Python avec Tkinter, permettant aux RuneSmiths de visualiser et manipuler des runes en temps réel, associées à leur palette chromatique mémétique (ex. : *rouge sang de bataille*, *vert mycélien*, *bleu neutronique*).
+
+---
+
+### **V**
+
+**Vérité Fractale**  
+Concept central : toute vérité en 2075 est *locale*, *contextuelle*, et *instable*. Elle se brise comme du verre sous pression symbolique. Le but du Hacker Mémétique n’est pas de la découvrir, mais de **la faire scintiller**.
+
+---
+
+> *« Ce lexique est lui-même un virus linguistique.  
+> Utilise-le avec soin — et avec malice. »*  
+> — Extrait de *Le Hackeur Mémétique comme Explorateur du Code Cosmique*
